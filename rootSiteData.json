@@ -1,5 +1,5 @@
 {
-  "imgSites": [
+  "sites": [
     {
       "id": "compress-image-to-30kb",
       "size": "30",
@@ -63,9 +63,7 @@
       "og_title": "Compress Image to 350KB",
       "description": "Compress Images (JPEG , JPG , PNG) to 350KB online for free",
       "url": "https://trywebsoft.com/compress-image-to-350kb"
-    }
-  ],
-  "archiveSites": [
+    },
     {
       "id": "extract-archive",
       "type": [".zip", ".rar", ".rar5", ".7z", ".tar"],
