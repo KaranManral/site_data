@@ -1,19 +1,68 @@
 {
-  "posts": [
+  "sites": [
     {
-      "title": "A Blog Post About Cats",
-      "slug": "the-cat-post",
-      "content": "This is a wonderful post about cats. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro dolore officiis atque voluptas, quas, repellendus cum, magnam a alias unde reiciendis voluptates aliquam maxime laborum? Quae omnis eius impedit et?"
+      "id": "compress-image-to-30kb",
+      "size": "30",
+      "title": "Compress Image (JPG,JPEG,PNG) to 30KB for free",
+      "og_title": "Compress Image to 30KB",
+      "description": "Compress Images (JPEG , JPG , PNG) to 30KB online for free",
+      "url": "https://trywebsoft.com/compress-image-to-30kb"
     },
     {
-      "title": "The Dog Post",
-      "slug": "dogs-article",
-      "content": "This is an amazing post all about dogs. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro dolore officiis atque voluptas, quas, repellendus cum, magnam a alias unde reiciendis voluptates aliquam maxime laborum? Quae omnis eius impedit et?"
+      "id": "compress-image-to-50kb",
+      "size": "50",
+      "title": "Compress Image (JPG,JPEG,PNG) to 50KB for free",
+      "og_title": "Compress Image to 50KB",
+      "description": "Compress Images (JPEG , JPG , PNG) to 50KB online for free",
+      "url": "https://trywebsoft.com/compress-image-to-50kb"
     },
     {
-      "title": "Birds Are Great",
-      "slug": "birds-are-great",
-      "content": "This is a once in a lifetime amazing post about birds. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro dolore officiis atque voluptas, quas, repellendus cum, magnam a alias unde reiciendis voluptates aliquam maxime laborum? Quae omnis eius impedit et?"
+      "id": "compress-image-to-100kb",
+      "size": "100",
+      "title": "Compress Image (JPG,JPEG,PNG) to 100KB for free",
+      "og_title": "Compress Image to 100KB",
+      "description": "Compress Images (JPEG , JPG , PNG) to 100KB online for free",
+      "url": "https://trywebsoft.com/compress-image-to-100kb"
+    },
+    {
+      "id": "compress-image-to-150kb",
+      "size": "150",
+      "title": "Compress Image (JPG,JPEG,PNG) to 150KB for free",
+      "og_title": "Compress Image to 150KB",
+      "description": "Compress Images (JPEG , JPG , PNG) to 150KB online for free",
+      "url": "https://trywebsoft.com/compress-image-to-150kb"
+    },
+    {
+      "id": "compress-image-to-200kb",
+      "size": "200",
+      "title": "Compress Image (JPG,JPEG,PNG) to 200KB for free",
+      "og_title": "Compress Image to 200KB",
+      "description": "Compress Images (JPEG , JPG , PNG) to 200KB online for free",
+      "url": "https://trywebsoft.com/compress-image-to-200kb"
+    },
+    {
+      "id": "compress-image-to-250kb",
+      "size": "250",
+      "title": "Compress Image (JPG,JPEG,PNG) to 250KB for free",
+      "og_title": "Compress Image to 250KB",
+      "description": "Compress Images (JPEG , JPG , PNG) to 250KB online for free",
+      "url": "https://trywebsoft.com/compress-image-to-250kb"
+    },
+    {
+      "id": "compress-image-to-300kb",
+      "size": "300",
+      "title": "Compress Image (JPG,JPEG,PNG) to 300KB for free",
+      "og_title": "Compress Image to 300KB",
+      "description": "Compress Images (JPEG , JPG , PNG) to 300KB online for free",
+      "url": "https://trywebsoft.com/compress-image-to-300kb"
+    },
+    {
+      "id": "compress-image-to-350kb",
+      "size": "350",
+      "title": "Compress Image (JPG,JPEG,PNG) to 350KB for free",
+      "og_title": "Compress Image to 350KB",
+      "description": "Compress Images (JPEG , JPG , PNG) to 350KB online for free",
+      "url": "https://trywebsoft.com/compress-image-to-350kb"
     }
   ]
 }
