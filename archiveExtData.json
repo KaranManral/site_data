@@ -1,0 +1,49 @@
+{
+  "sites": [
+    {
+      "id": "extract-archive",
+      "type": [".zip", ".rar", ".rar5", ".7z", ".tar"],
+      "mime_type": "application/zip,application/vnd.rar,application/x-tar,application/x-7z-compressed",
+      "title": "Archive Extractor | Simplest way to extract ZIP,RAR,7z,TAR and rar5 file online",
+      "og_title": "Archive Extractor",
+      "description": "Why to install different software to extract ZIP,RAR,7z,TAR or rar5 file when you can use this tool to extract these files online for free without installing any software.",
+      "url": "https://trywebsoft.com/extract-archive"
+    },
+    {
+      "id": "extract-rar",
+      "type": [".rar", ".rar5"],
+      "mime_type": "application/vnd.rar",
+      "title": "RAR Extractor | Extract RAR file online for free",
+      "og_title": "RAR Extractor",
+      "description": "Awesome web based tool to extract rar files. Get your rar files extracted hassle free online at zero fees.",
+      "url": "https://trywebsoft.com/extract-rar"
+    },
+    {
+      "id": "extract-zip",
+      "type": [".zip"],
+      "mime_type": "application/zip",
+      "title": "ZIP Extractor | Extract ZIP file online for free",
+      "og_title": "ZIP Extractor",
+      "description": "Best web based tool to unzip files. Get your devices free from installing unnecessary software and use our web based extractor for free.",
+      "url": "https://trywebsoft.com/extract-zip"
+    },
+    {
+      "id": "extract-7z",
+      "type": [".7z"],
+      "mime_type": "application/x-7z-compressed",
+      "title": "ZIP Extractor | Extract ZIP file online for free",
+      "og_title": "7z Extractor",
+      "description": "Awesome web based tool to extract 7z files. Get your 7z files extracted hassle free online at zero fees.",
+      "url": "https://trywebsoft.com/extract-7z"
+    },
+    {
+      "id": "extract-tar",
+      "type": [".tar"],
+      "mime_type": "application/x-tar",
+      "title": "TAR Extractor | Simplest way to extract TAR file online",
+      "og_title": "TAR Extractor",
+      "description": "Why to install different software to extract TAR file when you can use this tool to extract these files online for free without installing any software.",
+      "url": "https://trywebsoft.com/extract-tar"
+    }
+  ]
+}
