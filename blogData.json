@@ -1,18 +1,11 @@
 {
   "sites": [
     {
-      "id": "/",
-      "title": "Blog - Try Web Soft",
-      "og_title": "Blog - Try Web Soft",
-      "description": "Read Super Exciting Technical Blogs at Try Web Soft and improve your knowledge about latest technologies.",
-      "url": "https://trywebsoft.com/blog"
-    },
-    {
       "id": "page-2",
       "title": "Blog - Try Web Soft",
       "og_title": "Blog - Try Web Soft",
       "description": "Read Super Exciting Technical Blogs at Try Web Soft and improve your knowledge about latest technologies.",
-      "url": "https://trywebsoft.com/blog/page2"
+      "url": "https://trywebsoft.com/blog"
     },
     {
       "id": "how-to-save-pictures-from-pinterest",
