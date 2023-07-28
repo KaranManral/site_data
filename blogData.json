@@ -1,0 +1,185 @@
+{
+  "sites": [
+    {
+      "id": "",
+      "title": "Blog - Try Web Soft",
+      "og_title": "Blog - Try Web Soft",
+      "description": "Read Super Exciting Technical Blogs at Try Web Soft and improve your knowledge about latest technologies.",
+      "url": "https://trywebsoft.com/blog"
+    },
+    {
+      "id": "page-2",
+      "title": "Blog - Try Web Soft",
+      "og_title": "Blog - Try Web Soft",
+      "description": "Read Super Exciting Technical Blogs at Try Web Soft and improve your knowledge about latest technologies.",
+      "url": "https://trywebsoft.com/blog/page2"
+    },
+    {
+      "id": "how-to-save-pictures-from-pinterest",
+      "title": "How to save pictures from pinterest?",
+      "og_title": "How to save pictures from pinterest?",
+      "description": "Pinterest is a visual search engine and a social network for images. Pinterest is designed to discover and depict information in the form of images.",
+      "url": "https://trywebsoft.com/blog/how-to-save-pictures-from-pinterest",
+      "author":"Karan Singh Manral",
+      "authorImg":"https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "date":"February 22, 2023",
+      "keywords":"pinterest,pinterest images,ios,android,screenshot,windows,windows 11,tools",
+    },
+    {
+      "id": "how-to-open-rar-files",
+      "title": "The 10 Best Tools To Open RAR Files",
+      "og_title": "The 10 Best Tools To Open RAR Files",
+      "description": "Don't know how to open RAR files? Here are the best file compression and extraction tools worth using.",
+      "url": "https://trywebsoft.com/blog/how-to-open-rar-files",
+      "author":"Karan Singh Manral",
+      "authorImg":"https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "date":"February 24, 2023",
+      "keywords":"rar,zip,7z,winrar,winzip,extract,compress,ios,android,windows,windows 11,tools",
+    },
+    {
+      "id": "compress-image-online-for-free",
+      "title": "How to Compress Image Online For Free?",
+      "og_title": "How to Compress Image Online For Free?",
+      "description": "Want to make your website more appealing and attractive by using high-quality images?",
+      "url": "https://trywebsoft.com/blog/compress-image-online-for-free",
+      "author":"Karan Singh Manral",
+      "authorImg":"https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "date":"February 26, 2023",
+      "keywords":"compress image,image compressor,image,img,png,jpg,compressor,trywebsoft,trywebsoft image compressor,png compressor,jpg compressor",
+    },
+    {
+      "id": "chatgpt-4-everything-we-know",
+      "title": "ChatGPT- 4: How to Use? New Features, Availability and more",
+      "og_title": "ChatGPT- 4: How to Use? New Features, Availability and more",
+      "description": "ChatGPT-4 has officially arrived, and now includes the ability to interact with images and longer text.",
+      "url": "https://trywebsoft.com/blog/chatgpt-4-everything-we-know",
+      "author":"Karan Singh Manral",
+      "authorImg":"https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "date":"April 01, 2023",
+      "keywords":"Computing,Artificial intelligence,ChatGPT,GPT-3.5,GPT-4,OpenAI,AI alignment,Application software,Applied mathematics,Artificial general intelligence,Artificial intelligence,Artificial neural network,Biomedical cybernetics,Branches of science,Business and Finance,Chatbot,ChatGPT,Cognition,Cognitive neuroscience",
+    },
+    {
+      "id": "how-to-use-chatgpt-on-whatsapp",
+      "title": "How to use ChatGPT on Whatsapp?",
+      "og_title": "How to use ChatGPT on Whatsapp?",
+      "description": "ChatGPT-4 has officially arrived, and now you can use it on Whatsapp. Learn here how to do that for free.",
+      "url": "https://trywebsoft.com/blog/how-to-use-chatgpt-on-whatsapp",
+      "author":"Aditya Raj",
+      "authorImg":"https://karanmanral.github.io/site_data/images/author/araj30.webp",
+      "date":"April 05, 2023",
+      "keywords":"Computing,Artificial intelligence,ChatGPT,GPT-3.5,GPT-4,OpenAI,AI alignment,Application software,Applied mathematics,Artificial general intelligence,Artificial intelligence,Artificial neural network,Biomedical cybernetics,Branches of science,Business and Finance,Chatbot,ChatGPT,Cognition,Cognitive neuroscience,AI,Whatsapp",
+    },
+    {
+      "id": "google-bard-everything-we-know-about-google-ai",
+      "title": "Google Bard : Everything we know about Google's AI",
+      "og_title": "Google Bard : Everything we know about Google's AI",
+      "description": "Where you can access Google Bard, how Bard compares against ChatGPT, and why Bard has garnered so much controversy.",
+      "url": "https://trywebsoft.com/blog/google-bard-everything-we-know-about-google-ai",
+      "author":"Aditya Raj",
+      "authorImg":"https://karanmanral.github.io/site_data/images/author/araj30.webp",
+      "date":"April 16, 2023",
+      "keywords":"Google Bard,Bard AI,Google AI,Bard,Google,AI,Computing,Artificial intelligence,ChatGPT,GPT-3.5,GPT-4,OpenAI,AI alignment,Application software,Applied mathematics,Artificial general intelligence,Artificial intelligence,Artificial neural network,Biomedical cybernetics,Branches of science,Business and Finance,Chatbot,ChatGPT,Cognition,Cognitive neuroscience",
+    },
+    {
+      "id": "pentest-gpt",
+      "title": "PentestGPT - A ChatGPT Powered Automated Penetration Testing Tool",
+      "og_title": "PentestGPT - A ChatGPT Powered Automated Penetration Testing Tool",
+      "description": "new ChatGPT-powered Penetration testing Tool called "PentestGPT" that helps penetration testers to automate their pentesitng operations.",
+      "url": "https://trywebsoft.com/blog/pentest-gpt",
+      "author":"Karan Singh Manral",
+      "authorImg":"https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "date":"May 05, 2023",
+      "keywords":"ChatGPT,cyber security,Penetration Testing,penetration testing tool,Computing,Artificial intelligence,ChatGPT,GPT-3.5,GPT-4,OpenAI,AI alignment,Application software,Applied mathematics,Artificial general intelligence,Artificial intelligence,Artificial neural network,Biomedical cybernetics,Branches of science,Business and Finance,Chatbot,ChatGPT,Cognition,Cognitive neuroscience",
+    },
+    {
+      "id": "what-is-truth-gpt",
+      "title": "What is TruthGPT that Elon Musk Claims to Be Working On?",
+      "og_title": "What is TruthGPT that Elon Musk Claims to Be Working On?",
+      "description": "Is Elon Musk set to take on ChatGPT?",
+      "url": "https://trywebsoft.com/blog/what-is-truth-gpt",
+      "author":"Karan Singh Manral",
+      "authorImg":"https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "date":"June 17, 2023",
+      "keywords":"truth gpt,truth,TruthGPT,ChatGPT,cyber security,Penetration Testing,penetration testing tool,Computing,Artificial intelligence,ChatGPT,GPT-3.5,GPT-4,OpenAI,AI alignment,Application software,Applied mathematics,Artificial general intelligence,Artificial intelligence,Artificial neural network,Biomedical cybernetics,Branches of science,Business and Finance,Chatbot,ChatGPT,Cognition,Cognitive neuroscience",
+    },
+    {
+      "id": "how-to-take-screenshot-on-windows",
+      "title": "5 ways to take a screenshot on Windows 10 and Windows 11",
+      "og_title": "How to take screenshot on Windows",
+      "description": "You can take a screenshot on Windows using various tools, such as the Print Screen button, Snipping tool, Game Bar, and third-party apps.",
+      "url": "https://trywebsoft.com/blog/how-to-take-screenshot-on-windows",
+      "author":"Karan Singh Manral",
+      "authorImg":"https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "date":"June 23, 2023",
+      "keywords":"screenshot,windows,windows 11,tools,screenshot tools",
+    },
+    {
+      "id": "the-impact-of-ai",
+      "title": "The Impact of Artificial Intelligence in every sector",
+      "og_title": "The Impact of Artificial Intelligence in every sector",
+      "description": "how digitalization and AI are creating a new normal in the every sector",
+      "url": "https://trywebsoft.com/blog/the-impact-of-ai",
+      "author":"Karan Singh Manral",
+      "authorImg":"https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "date":"June 24, 2023",
+      "keywords":"ai,impact,industry,artificial intelligence,jobs,layoffs,new opportunities",
+    },
+    {
+      "id": "how-to-extend-battery-life-in-windows-11",
+      "title": "7 Tips to Extend Battery Life on Windows 11",
+      "og_title": "7 Tips to Extend Battery Life on Windows 11",
+      "description": "If you want to extend the battery life of your laptop, there are a few Windows 11 settings you can change to help with that.",
+      "url": "https://trywebsoft.com/blog/how-to-extend-battery-life-in-windows-11",
+      "author":"Karan Singh Manral",
+      "authorImg":"https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "date":"July 14, 2023",
+      "keywords":"windows 10,battery,battery optimization,battery settings,battery saver,screenshot,windows,windows 11,tools,screenshot tools",
+    }
+  ],
+  "blogs":[
+    {
+      "id": "how-to-save-pictures-from-pinterest",
+      "data":[]
+    },
+    {
+      "id": "how-to-open-rar-files",
+      "data":[]
+    },
+    {
+      "id": "compress-image-online-for-free",
+      "data":[]
+    },
+    {
+      "id": "chatgpt-4-everything-we-know",
+      "data":[]
+    },
+    {
+      "id": "how-to-use-chatgpt-on-whatsapp",
+      "data":[]
+    },
+    {
+      "id": "google-bard-everything-we-know-about-google-ai",
+      "data":[]
+    },
+    {
+      "id": "pentest-gpt",
+      "data":[]
+    },
+    {
+      "id": "what-is-truth-gpt",
+      "data":[]
+    },
+    {
+      "id": "how-to-take-screenshot-on-windows",
+      "data":[]
+    },
+    {
+      "id": "the-impact-of-ai",
+      "data":[]
+    },
+    {
+      "id": "how-to-extend-battery-life-in-windows-11",
+      "data":[]
+    }
+  ]
+}
