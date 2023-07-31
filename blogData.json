@@ -167,7 +167,7 @@
           "children": null
         },
         {
-          "type": "h4",
+          "type": "h3",
           "property": { "key": "head_1" },
           "children": "How to save pictures from Pinterest on or Mac?"
         },
@@ -225,13 +225,18 @@
           ]
         },
         {
-          "type": "h4",
+          "type": "br",
+          "property": { "key": "break_5" },
+          "children": null
+        },
+        {
+          "type": "h3",
           "property": { "key": "head_2" },
           "children": "How to download images from pinterest on Android?"
         },
         {
           "type": "br",
-          "property": { "key": "break_5" },
+          "property": { "key": "break_6" },
           "children": null
         },
         {
@@ -308,6 +313,11 @@
           ]
         },
         {
+          "type": "br",
+          "property": { "key": "break_7" },
+          "children": null
+        },
+        {
           "type": "ol",
           "property": { "className": "my-4", "key": "ol_2" },
           "children": [
@@ -339,13 +349,18 @@
           ]
         },
         {
-          "type": "h4",
+          "type": "br",
+          "property": { "key": "break_8" },
+          "children": null
+        },
+        {
+          "type": "h3",
           "property": { "key": "head_3" },
           "children": "Save pictures from Pinterest on IOS"
         },
         {
           "type": "br",
-          "property": { "key": "break_6" },
+          "property": { "key": "break_9" },
           "children": null
         },
         {
@@ -417,6 +432,11 @@
           ]
         },
         {
+          "type": "br",
+          "property": { "key": "break_10" },
+          "children": null
+        },
+        {
           "type": "ol",
           "property": { "className": "my-4", "key": "ol_3" },
           "children": [
@@ -444,7 +464,12 @@
         },
         {
           "type": "br",
-          "property": { "key": "break_7" },
+          "property": { "key": "break_11" },
+          "children": null
+        },
+        {
+          "type": "br",
+          "property": { "key": "break_12" },
           "children": null
         },
         {
@@ -490,7 +515,426 @@
       "title": "The 10 Best Tools To Open RAR Files",
       "author": "Karan Singh Manral",
       "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
-      "data": []
+      "data": [
+        {
+          "type": "p",
+          "property": null,
+          "children": "Don't know how to open RAR files? Here are some best file compression and extraction tools worth using."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "RAR files are one of the most common archive formats. If you're unfamiliar with how to open a RAR file, then this list may help."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "All ten of these RAR openers are easy to use, good at compressing files, and they are free or paid, depending on the features you're looking for."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h2",
+          "property": null,
+          "children": "1. WinRAR"
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "img",
+          "property": {
+            "src": "https://karanmanral.github.io/site_data/images/blog/how-to-open-rar-files/winRAR.webp",
+            "className": "blogImg",
+            "loading": "lazy",
+            "alt": "WinRAR",
+            "title": "WinRAR",
+            "key": "img_1"
+          },
+          "children": null
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "WinRAR is one of the most popular unarchiving software. It allows users to seamlessly extract all popular formats such as RAR, CAB, 7Z, and ZIP. In addition, the software supports 128-bit and 256-bit AES encryption."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "If you're looking for an easy tool for opening RAR files that offers much more, then check out WinRAR. You can download it for free and try it out for 40 days. If you decide to buy, WinRAR is currently priced at $29 and is available for Windows."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": [
+            {
+              "type": "span",
+              "property": { "key": "span_1" },
+              "children": "Download "
+            },
+            {
+              "type": "a",
+              "property": {
+                "key": "a_1",
+                "href": "https://www.win-rar.com/",
+                "target": "_blank",
+                "rel": "noreferrer"
+              },
+              "children": "WinRAR (Free Trial)"
+            }
+          ]
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h2",
+          "property": null,
+          "children": "2. 7-Zip"
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "img",
+          "property": {
+            "src": "https://karanmanral.github.io/site_data/images/blog/how-to-open-rar-files/sevenZIP.webp",
+            "className": "blogImg",
+            "loading": "lazy",
+            "alt": "7-Zip",
+            "title": "7-Zip",
+            "key": "img_2"
+          },
+          "children": null
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "After WinRAR, 7-Zip is the most popular utility for opening RAR files.It can even open files that WinRAR is unable to open.It is the most powerful archive tool."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "In terms of usefulness, 7-Zip supports all major archive formats and allows users to extract multi-volume files. This free software offers 256-bit AES encryption as well."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": [
+            {
+              "type": "span",
+              "property": { "key": "span_2" },
+              "children": "Download "
+            },
+            {
+              "type": "a",
+              "property": {
+                "key": "a_2",
+                "href": "https://www.7-zip.org/",
+                "target": "_blank",
+                "rel": "noreferrer"
+              },
+              "children": "7-Zip"
+            }
+          ]
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h2",
+          "property": null,
+          "children": "3. WinZip"
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "img",
+          "property": {
+            "src": "https://karanmanral.github.io/site_data/images/blog/how-to-open-rar-files/winZIP.webp",
+            "className": "blogImg",
+            "loading": "lazy",
+            "alt": "WinZip",
+            "title": "WinZip",
+            "key": "img_3"
+          },
+          "children": null
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "As its name implies, WinZip is typically used to open ZIP files. However, it also opens several other formats, including RAR, 7z, CAB, and ISO."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "Along with opening RAR and other compressed file types, WinZip lets you encrypt files using 128-bit and 256-bit AES encryption."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": [
+            {
+              "type": "span",
+              "property": { "key": "span_3" },
+              "children": "Download WinZIP (21 days trial) for "
+            },
+            {
+              "type": "a",
+              "property": {
+                "key": "a_3",
+                "href": "https://www.winzip.com/en/",
+                "target": "_blank",
+                "rel": "noreferrer"
+              },
+              "children": "Windows"
+            },
+            {
+              "type": "span",
+              "property": { "key": "span_4" },
+              "children": " | "
+            },
+            {
+              "type": "a",
+              "property": {
+                "key": "a_4",
+                "href": "https://www.winzip.com/en/mac/",
+                "target": "_blank",
+                "rel": "noreferrer"
+              },
+              "children": "Mac"
+            },
+            {
+              "type": "span",
+              "property": { "key": "span_5" },
+              "children": " | "
+            },
+            {
+              "type": "a",
+              "property": {
+                "key": "a_5",
+                "href": "https://play.google.com/store/apps/details?id=com.winzip.android&hl=en_IN&gl=US",
+                "target": "_blank",
+                "rel": "noreferrer"
+              },
+              "children": "Android"
+            },
+            {
+              "type": "span",
+              "property": { "key": "span_6" },
+              "children": " | "
+            },
+            {
+              "type": "a",
+              "property": {
+                "key": "a_6",
+                "href": "https://apps.apple.com/us/app/winzip/id500637987",
+                "target": "_blank",
+                "rel": "noreferrer"
+              },
+              "children": "IOS"
+            }
+          ]
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h2",
+          "property": null,
+          "children": "4. RAR Extractor - Try Web Soft"
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "img",
+          "property": {
+            "src": "https://karanmanral.github.io/site_data/images/blog/how-to-open-rar-files/rarExt.webp",
+            "className": "blogImg",
+            "loading": "lazy",
+            "alt": "RAR Extractor - Try Web Soft",
+            "title": "RAR Extractor - Try Web Soft",
+            "key": "img_4"
+          },
+          "children": null
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "RAR Extractor is a web based rar extractor that is absolutely free to use. It uses a powerful library to open RAR files with backing of latest web technology."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "It is completely free to use that is absolutely safe to use. It does not involve any server, thus making it as safe as possible. You can upload files on local computer or also use Google Drive and Dropbox to upload files for extraction."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": [
+            {
+              "type": "span",
+              "property": { "key": "span_7" },
+              "children": "Visit "
+            },
+            {
+              "type": "a",
+              "property": {
+                "key": "a_7",
+                "href": "/extract-rar",
+                "target": "_blank",
+                "rel": "noreferrer"
+              },
+              "children": "RAR Extractor"
+            }
+          ]
+        },
+        {
+          "type": "h4",
+          "property": null,
+          "children": "Also Use these tools:-"
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": [
+            {
+              "type": "a",
+              "property": {
+                "key": "a_8",
+                "href": "/extract-rar",
+                "target": "_blank",
+                "rel": "noreferrer"
+              },
+              "children": "RAR Extractor"
+            },
+            {
+              "type": "span",
+              "property": { "key": "span_8" },
+              "children": " and "
+            },
+            {
+              "type": "a",
+              "property": {
+                "key": "a_9",
+                "href": "/extract-7z",
+                "target": "_blank",
+                "rel": "noreferrer"
+              },
+              "children": "7z Extractor"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "compress-image-online-for-free",
