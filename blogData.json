@@ -132,46 +132,418 @@
   "blogs": [
     {
       "id": "how-to-save-pictures-from-pinterest",
-      "data": []
+      "title": "How to save pictures from pinterest?",
+      "author": "Karan Singh Manral",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "data": [
+        {
+          "type": "p",
+          "property": null,
+          "children": "Pinterest is a visual discovery engine for finding ideas like recipes, home and style inspiration, and more. It is designed to discover and depict information in the form of images."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "With billions of Pins on Pinterest, you'll always find ideas to spark inspiration. When you discover Pins you love, save them to boards to keep your ideas organized and easy to find. You can also create Pins to share your ideas with other people on Pinterest."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "Pinterest's website does not provide a direct download option, so here, we will help you in downloading the images in a desktop and mobile application."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h4",
+          "property": null,
+          "children": "How to save pictures from Pinterest on or Mac?"
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "Follow these steps to download an image on the Pinterest website:"
+        },
+        {
+          "type": "img",
+          "property": {
+            "src": "https://karanmanral.github.io/site_data/images/blog/how-to-save-pictures-from-pinterest/save-pictures-from-pinterest.webp",
+            "className": "blogImg",
+            "loading": "lazy",
+            "alt": "How to save pictures from pinterest on Mac?",
+            "title": "How to save pictures from pinterest on Mac?"
+          },
+          "children": null
+        },
+        {
+          "type": "ol",
+          "property": { "className": "my-4" },
+          "children": [
+            {
+              "type": "li",
+              "property": { "key": 1, "className": "my-3" },
+              "children": "Open your Pinterest account, and log in to it."
+            },
+            {
+              "type": "li",
+              "property": { "key": 1, "className": "my-3" },
+              "children": "Search for the desired image and select it."
+            },
+            {
+              "type": "li",
+              "property": { "key": 1, "className": "my-3" },
+              "children": "Right-Click on the image once the image is opened."
+            },
+            {
+              "type": "li",
+              "property": { "key": 1, "className": "my-3" },
+              "children": "Select “Save image as,” and select the folder path where you want the image to be stored."
+            },
+            {
+              "type": "li",
+              "property": { "key": 1, "className": "my-3" },
+              "children": "Click on the Save button."
+            }
+          ]
+        },
+        {
+          "type": "h4",
+          "property": null,
+          "children": "How to download images from pinterest on Android?"
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "Downloading Pinterest images on Android mobile is much more comfortable and effortless with Pinterest android application."
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "Steps to download Pinterest images on Android with the help of the Pinterest mobile app:"
+        },
+        {
+          "type": "div",
+          "property": {
+            "className": "row"
+          },
+          "children": [
+            {
+              "type": "div",
+              "property": { "className": "col" },
+              "children": [
+                {
+                  "type": "img",
+                  "property": {
+                    "src": "https://karanmanral.github.io/site_data/images/blog/how-to-save-pictures-from-pinterest/Pinterest1.webp",
+                    "className": "blogImg",
+                    "loading": "lazy",
+                    "alt": "How to save pictures from pinterest on Android?",
+                    "title": "How to save pictures from pinterest on Android?"
+                  },
+                  "children": null
+                }
+              ]
+            },
+            {
+              "type": "div",
+              "property": { "className": "col" },
+              "children": [
+                {
+                  "type": "img",
+                  "property": {
+                    "src": "https://karanmanral.github.io/site_data/images/blog/how-to-save-pictures-from-pinterest/Pinterest2.webp",
+                    "className": "blogImg",
+                    "loading": "lazy",
+                    "alt": "How to save pictures from pinterest on Android?",
+                    "title": "How to save pictures from pinterest on Android?"
+                  },
+                  "children": null
+                }
+              ]
+            },
+            {
+              "type": "div",
+              "property": { "className": "col" },
+              "children": [
+                {
+                  "type": "img",
+                  "property": {
+                    "src": "https://karanmanral.github.io/site_data/images/blog/how-to-save-pictures-from-pinterest/Pinterest3.webp",
+                    "className": "blogImg",
+                    "loading": "lazy",
+                    "alt": "How to save pictures from pinterest on Android?",
+                    "title": "How to save pictures from pinterest on Android?"
+                  },
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ol",
+          "property": { "className": "my-4" },
+          "children": [
+            {
+              "type": "li",
+              "property": { "key": 1, "className": "my-3" },
+              "children": "Open the Pinterest app on your mobile device and log in to your account. In the search box, enter the image query and choose the picture you want to save."
+            },
+            {
+              "type": "li",
+              "property": { "key": 2, "className": "my-3" },
+              "children": "After the picture selection, tap the three-dot icon on the top left corner of your mobile screen."
+            },
+            {
+              "type": "li",
+              "property": { "key": 3, "className": "my-3" },
+              "children": "From the menu, select Download Image."
+            },
+            {
+              "type": "li",
+              "property": { "key": 4, "className": "my-3" },
+              "children": "You will be prompted with a pop-up message from Pinterest asking your permission to access your device's gallery. Tap Allow to save the image in your phone gallery."
+            },
+            {
+              "type": "li",
+              "property": { "key": 5, "className": "my-3" },
+              "children": "After the image is downloaded, you will receive a confirmation message at the bottom of the screen, indicating that the image has been saved."
+            }
+          ]
+        },
+        {
+          "type": "h4",
+          "property": null,
+          "children": "Save pictures from Pinterest on IOS"
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "The process of downloading Pinterest images on iOS is as similar to Android. Here are the steps to follow to download Pinterest images on iOS:"
+        },
+        {
+          "type": "div",
+          "property": {
+            "className": "row"
+          },
+          "children": [
+            {
+              "type": "div",
+              "property": { "className": "col" },
+              "children": [
+                {
+                  "type": "img",
+                  "property": {
+                    "src": "https://karanmanral.github.io/site_data/images/blog/how-to-save-pictures-from-pinterest/Pinterest4.webp",
+                    "className": "blogImg",
+                    "loading": "lazy",
+                    "alt": "How to save pictures from pinterest on IOS?",
+                    "title": "How to save pictures from pinterest on IOS?"
+                  },
+                  "children": null
+                }
+              ]
+            },
+            {
+              "type": "div",
+              "property": { "className": "col" },
+              "children": [
+                {
+                  "type": "img",
+                  "property": {
+                    "src": "https://karanmanral.github.io/site_data/images/blog/how-to-save-pictures-from-pinterest/Pinterest5.webp",
+                    "className": "blogImg",
+                    "loading": "lazy",
+                    "alt": "How to save pictures from pinterest on IOS?",
+                    "title": "How to save pictures from pinterest on IOS?"
+                  },
+                  "children": null
+                }
+              ]
+            },
+            {
+              "type": "div",
+              "property": { "className": "col" },
+              "children": [
+                {
+                  "type": "img",
+                  "property": {
+                    "src": "https://karanmanral.github.io/site_data/images/blog/how-to-save-pictures-from-pinterest/Pinterest6.webp",
+                    "className": "blogImg",
+                    "loading": "lazy",
+                    "alt": "How to save pictures from pinterest on IOS?",
+                    "title": "How to save pictures from pinterest on IOS?"
+                  },
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ol",
+          "property": { "className": "my-4" },
+          "children": [
+            {
+              "type": "li",
+              "property": { "key": 1, "className": "my-3" },
+              "children": "Open the Pinterest app on your iOS device and navigate to the image that you want to download."
+            },
+            {
+              "type": "li",
+              "property": { "key": 2, "className": "my-3" },
+              "children": "Once you have found the required image, tap it."
+            },
+            {
+              "type": "li",
+              "property": { "key": 3, "className": "my-3" },
+              "children": "Tap the three-dot icon on the top left corner of your mobile screen."
+            },
+            {
+              "type": "li",
+              "property": { "key": 4, "className": "my-3" },
+              "children": "From the pop-up menu, select Download Image."
+            }
+          ]
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h4",
+          "property": null,
+          "children": "Also Use these tools:-"
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": [
+            {
+              "type": "Link",
+              "property": {
+                "key": 1,
+                "href": "/compress-jpg",
+                "target": "_blank",
+                "rel": "noreferrer"
+              },
+              "children": "JPG Compressor"
+            },
+            {
+              "type": "span",
+              "property": null,
+              "children": " and "
+            },
+            {
+              "type": "Link",
+              "property": {
+                "key": 2,
+                "href": "/compress-png",
+                "target": "_blank",
+                "rel": "noreferrer"
+              },
+              "children": "PNG Compressor"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "how-to-open-rar-files",
+      "title": "The 10 Best Tools To Open RAR Files",
+      "author": "Karan Singh Manral",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
       "data": []
     },
     {
       "id": "compress-image-online-for-free",
+      "title": "How to Compress Image Online For Free?",
+      "author": "Karan Singh Manral",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
       "data": []
     },
     {
       "id": "chatgpt-4-everything-we-know",
+      "title": "ChatGPT- 4: How to Use? New Features, Availability and more",
+      "author": "Karan Singh Manral",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
       "data": []
     },
     {
       "id": "how-to-use-chatgpt-on-whatsapp",
+      "title": "How to use ChatGPT on Whatsapp?",
+      "author": "Aditya Raj",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/araj30.webp",
       "data": []
     },
     {
       "id": "google-bard-everything-we-know-about-google-ai",
+      "title": "Google Bard : Everything we know about Google's AI",
+      "author": "Aditya Raj",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/araj30.webp",
       "data": []
     },
     {
       "id": "pentest-gpt",
+      "title": "PentestGPT - A ChatGPT Powered Automated Penetration Testing Tool",
+      "author": "Karan Singh Manral",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
       "data": []
     },
     {
       "id": "what-is-truth-gpt",
+      "title": "What is TruthGPT that Elon Musk Claims to Be Working On?",
+      "author": "Karan Singh Manral",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
       "data": []
     },
     {
       "id": "how-to-take-screenshot-on-windows",
+      "title": "5 ways to take a screenshot on Windows 10 and Windows 11",
+      "author": "Karan Singh Manral",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
       "data": []
     },
     {
       "id": "the-impact-of-ai",
+      "title": "The Impact of Artificial Intelligence in every sector",
+      "author": "Karan Singh Manral",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
       "data": []
     },
     {
       "id": "how-to-extend-battery-life-in-windows-11",
+      "title": "7 Tips to Extend Battery Life on Windows 11",
+      "author": "Karan Singh Manral",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
       "data": []
     }
   ]
