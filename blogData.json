@@ -448,7 +448,7 @@
           "property": null,
           "children": [
             {
-              "type": "Link",
+              "type": "a",
               "property": {
                 "key": 1,
                 "href": "/compress-jpg",
@@ -463,7 +463,7 @@
               "children": " and "
             },
             {
-              "type": "Link",
+              "type": "a",
               "property": {
                 "key": 2,
                 "href": "/compress-png",
