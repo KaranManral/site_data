@@ -138,47 +138,47 @@
       "data": [
         {
           "type": "p",
-          "property": null,
+          "property": { "key": "para_1" },
           "children": "Pinterest is a visual discovery engine for finding ideas like recipes, home and style inspiration, and more. It is designed to discover and depict information in the form of images."
         },
         {
           "type": "br",
-          "property": null,
+          "property": { "key": "break_1" },
           "children": null
         },
         {
           "type": "p",
-          "property": null,
+          "property": { "key": "para_2" },
           "children": "With billions of Pins on Pinterest, you'll always find ideas to spark inspiration. When you discover Pins you love, save them to boards to keep your ideas organized and easy to find. You can also create Pins to share your ideas with other people on Pinterest."
         },
         {
           "type": "br",
-          "property": null,
+          "property": { "key": "break_2" },
           "children": null
         },
         {
           "type": "p",
-          "property": null,
+          "property": { "key": "para_3" },
           "children": "Pinterest's website does not provide a direct download option, so here, we will help you in downloading the images in a desktop and mobile application."
         },
         {
           "type": "br",
-          "property": null,
+          "property": { "key": "break_3" },
           "children": null
         },
         {
           "type": "h4",
-          "property": null,
+          "property": { "key": "head_1" },
           "children": "How to save pictures from Pinterest on or Mac?"
         },
         {
           "type": "br",
-          "property": null,
+          "property": { "key": "break_4" },
           "children": null
         },
         {
           "type": "p",
-          "property": null,
+          "property": { "key": "para_4" },
           "children": "Follow these steps to download an image on the Pinterest website:"
         },
         {
@@ -188,70 +188,72 @@
             "className": "blogImg",
             "loading": "lazy",
             "alt": "How to save pictures from pinterest on Mac?",
-            "title": "How to save pictures from pinterest on Mac?"
+            "title": "How to save pictures from pinterest on Mac?",
+            "key": "img_1"
           },
           "children": null
         },
         {
           "type": "ol",
-          "property": { "className": "my-4" },
+          "property": { "className": "my-4", "key": "ol_1" },
           "children": [
             {
               "type": "li",
-              "property": { "key": 1, "className": "my-3" },
+              "property": { "key": "li_1", "className": "my-3" },
               "children": "Open your Pinterest account, and log in to it."
             },
             {
               "type": "li",
-              "property": { "key": 1, "className": "my-3" },
+              "property": { "key": "li_2", "className": "my-3" },
               "children": "Search for the desired image and select it."
             },
             {
               "type": "li",
-              "property": { "key": 1, "className": "my-3" },
+              "property": { "key": "li_3", "className": "my-3" },
               "children": "Right-Click on the image once the image is opened."
             },
             {
               "type": "li",
-              "property": { "key": 1, "className": "my-3" },
+              "property": { "key": "li_4", "className": "my-3" },
               "children": "Select “Save image as,” and select the folder path where you want the image to be stored."
             },
             {
               "type": "li",
-              "property": { "key": 1, "className": "my-3" },
+              "property": { "key": "li_5", "className": "my-3" },
               "children": "Click on the Save button."
             }
           ]
         },
         {
           "type": "h4",
-          "property": null,
+          "property": { "key": "head_2" },
           "children": "How to download images from pinterest on Android?"
         },
         {
           "type": "br",
-          "property": null,
+          "property": { "key": "break_5" },
           "children": null
         },
         {
           "type": "p",
-          "property": null,
+          "property": { "key": "para_5" },
           "children": "Downloading Pinterest images on Android mobile is much more comfortable and effortless with Pinterest android application."
         },
         {
           "type": "p",
-          "property": null,
+          "property": { "key": "para_6" },
           "children": "Steps to download Pinterest images on Android with the help of the Pinterest mobile app:"
         },
         {
           "type": "div",
           "property": {
-            "className": "row"
+            "className": "row",
+            "key": "div_1"
           },
           "children": [
             {
               "type": "div",
-              "property": { "className": "col" },
+              "property": { "className": "col", "key": "div_2" },
               "children": [
                 {
                   "type": "img",
@@ -260,7 +262,8 @@
                     "className": "blogImg",
                     "loading": "lazy",
                     "alt": "How to save pictures from pinterest on Android?",
-                    "title": "How to save pictures from pinterest on Android?"
+                    "title": "How to save pictures from pinterest on Android?",
+                    "key": "img_2"
                   },
                   "children": null
                 }
@@ -268,7 +271,7 @@
             },
             {
               "type": "div",
-              "property": { "className": "col" },
+              "property": { "className": "col", "key": "div_3" },
               "children": [
                 {
                   "type": "img",
@@ -277,7 +280,8 @@
                     "className": "blogImg",
                     "loading": "lazy",
                     "alt": "How to save pictures from pinterest on Android?",
-                    "title": "How to save pictures from pinterest on Android?"
+                    "title": "How to save pictures from pinterest on Android?",
+                    "key": "img_3"
                   },
                   "children": null
                 }
@@ -285,7 +289,7 @@
             },
             {
               "type": "div",
-              "property": { "className": "col" },
+              "property": { "className": "col", "key": "div_4" },
               "children": [
                 {
                   "type": "img",
@@ -294,7 +298,8 @@
                     "className": "blogImg",
                     "loading": "lazy",
                     "alt": "How to save pictures from pinterest on Android?",
-                    "title": "How to save pictures from pinterest on Android?"
+                    "title": "How to save pictures from pinterest on Android?",
+                    "key": "img_4"
                   },
                   "children": null
                 }
@@ -304,59 +309,60 @@
         },
         {
           "type": "ol",
-          "property": { "className": "my-4" },
+          "property": { "className": "my-4", "key": "ol_2" },
           "children": [
             {
               "type": "li",
-              "property": { "key": 1, "className": "my-3" },
+              "property": { "key": "li_6", "className": "my-3" },
               "children": "Open the Pinterest app on your mobile device and log in to your account. In the search box, enter the image query and choose the picture you want to save."
             },
             {
               "type": "li",
-              "property": { "key": 2, "className": "my-3" },
+              "property": { "key": "li_7", "className": "my-3" },
               "children": "After the picture selection, tap the three-dot icon on the top left corner of your mobile screen."
             },
             {
               "type": "li",
-              "property": { "key": 3, "className": "my-3" },
+              "property": { "key": "li_8", "className": "my-3" },
               "children": "From the menu, select Download Image."
             },
             {
               "type": "li",
-              "property": { "key": 4, "className": "my-3" },
+              "property": { "key": "li_9", "className": "my-3" },
               "children": "You will be prompted with a pop-up message from Pinterest asking your permission to access your device's gallery. Tap Allow to save the image in your phone gallery."
             },
             {
               "type": "li",
-              "property": { "key": 5, "className": "my-3" },
+              "property": { "key": "li_10", "className": "my-3" },
               "children": "After the image is downloaded, you will receive a confirmation message at the bottom of the screen, indicating that the image has been saved."
             }
           ]
         },
         {
           "type": "h4",
-          "property": null,
+          "property": { "key": "head_3" },
           "children": "Save pictures from Pinterest on IOS"
         },
         {
           "type": "br",
-          "property": null,
+          "property": { "key": "break_6" },
           "children": null
         },
         {
           "type": "p",
-          "property": null,
+          "property": { "key": "para_7" },
           "children": "The process of downloading Pinterest images on iOS is as similar to Android. Here are the steps to follow to download Pinterest images on iOS:"
         },
         {
           "type": "div",
           "property": {
-            "className": "row"
+            "className": "row",
+            "key": "div_5"
           },
           "children": [
             {
               "type": "div",
-              "property": { "className": "col" },
+              "property": { "className": "col", "key": "div_6" },
               "children": [
                 {
                   "type": "img",
@@ -365,7 +371,8 @@
                     "className": "blogImg",
                     "loading": "lazy",
                     "alt": "How to save pictures from pinterest on IOS?",
-                    "title": "How to save pictures from pinterest on IOS?"
+                    "title": "How to save pictures from pinterest on IOS?",
+                    "key": "img_5"
                   },
                   "children": null
                 }
@@ -373,7 +380,7 @@
             },
             {
               "type": "div",
-              "property": { "className": "col" },
+              "property": { "className": "col", "key": "div_7" },
               "children": [
                 {
                   "type": "img",
@@ -382,7 +389,8 @@
                     "className": "blogImg",
                     "loading": "lazy",
                     "alt": "How to save pictures from pinterest on IOS?",
-                    "title": "How to save pictures from pinterest on IOS?"
+                    "title": "How to save pictures from pinterest on IOS?",
+                    "key": "img_6"
                   },
                   "children": null
                 }
@@ -390,7 +398,7 @@
             },
             {
               "type": "div",
-              "property": { "className": "col" },
+              "property": { "className": "col", "key": "div_8" },
               "children": [
                 {
                   "type": "img",
@@ -399,7 +407,8 @@
                     "className": "blogImg",
                     "loading": "lazy",
                     "alt": "How to save pictures from pinterest on IOS?",
-                    "title": "How to save pictures from pinterest on IOS?"
+                    "title": "How to save pictures from pinterest on IOS?",
+                    "key": "img_7"
                   },
                   "children": null
                 }
@@ -409,48 +418,48 @@
         },
         {
           "type": "ol",
-          "property": { "className": "my-4" },
+          "property": { "className": "my-4", "key": "ol_3" },
           "children": [
             {
               "type": "li",
-              "property": { "key": 1, "className": "my-3" },
+              "property": { "key": "li_11", "className": "my-3" },
               "children": "Open the Pinterest app on your iOS device and navigate to the image that you want to download."
             },
             {
               "type": "li",
-              "property": { "key": 2, "className": "my-3" },
+              "property": { "key": "li_12", "className": "my-3" },
               "children": "Once you have found the required image, tap it."
             },
             {
               "type": "li",
-              "property": { "key": 3, "className": "my-3" },
+              "property": { "key": "li_13", "className": "my-3" },
               "children": "Tap the three-dot icon on the top left corner of your mobile screen."
             },
             {
               "type": "li",
-              "property": { "key": 4, "className": "my-3" },
+              "property": { "key": "li_14", "className": "my-3" },
               "children": "From the pop-up menu, select Download Image."
             }
           ]
         },
         {
           "type": "br",
-          "property": null,
+          "property": { "key": "break_7" },
           "children": null
         },
         {
           "type": "h4",
-          "property": null,
+          "property": { "key": "head_4" },
           "children": "Also Use these tools:-"
         },
         {
           "type": "p",
-          "property": null,
+          "property": { "key": "para_8" },
           "children": [
             {
               "type": "a",
               "property": {
-                "key": 1,
+                "key": "a_1",
                 "href": "/compress-jpg",
                 "target": "_blank",
                 "rel": "noreferrer"
@@ -459,13 +468,13 @@
             },
             {
               "type": "span",
-              "property": null,
+              "property": { "key": "span_1" },
               "children": " and "
             },
             {
               "type": "a",
               "property": {
-                "key": 2,
+                "key": "a_2",
                 "href": "/compress-png",
                 "target": "_blank",
                 "rel": "noreferrer"
