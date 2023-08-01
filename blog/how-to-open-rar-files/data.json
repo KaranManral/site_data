@@ -40,11 +40,6 @@
       "children": "1. WinRAR"
     },
     {
-      "type": "br",
-      "property": null,
-      "children": null
-    },
-    {
       "type": "img",
       "property": {
         "src": "https://karanmanral.github.io/site_data/blog/how-to-open-rar-files/images/winRAR.webp",
@@ -116,11 +111,6 @@
       "children": "2. 7-Zip"
     },
     {
-      "type": "br",
-      "property": null,
-      "children": null
-    },
-    {
       "type": "img",
       "property": {
         "src": "https://karanmanral.github.io/site_data/blog/how-to-open-rar-files/images/sevenZIP.webp",
@@ -190,11 +180,6 @@
       "type": "h2",
       "property": null,
       "children": "3. WinZip"
-    },
-    {
-      "type": "br",
-      "property": null,
-      "children": null
     },
     {
       "type": "img",
@@ -310,11 +295,6 @@
       "children": "4. RAR Extractor - Try Web Soft"
     },
     {
-      "type": "br",
-      "property": null,
-      "children": null
-    },
-    {
       "type": "img",
       "property": {
         "src": "https://karanmanral.github.io/site_data/blog/how-to-open-rar-files/images/rarExt.webp",
@@ -386,11 +366,6 @@
       "children": "5. Archive Extractor - 123APPS"
     },
     {
-      "type": "br",
-      "property": null,
-      "children": null
-    },
-    {
       "type": "img",
       "property": {
         "src": "https://karanmanral.github.io/site_data/blog/how-to-open-rar-files/images/extMe.webp",
@@ -460,11 +435,6 @@
       "type": "h2",
       "property": null,
       "children": "6. PeaZip"
-    },
-    {
-      "type": "br",
-      "property": null,
-      "children": null
     },
     {
       "type": "img",
@@ -552,11 +522,6 @@
       "children": "7. The Unarchiver"
     },
     {
-      "type": "br",
-      "property": null,
-      "children": null
-    },
-    {
       "type": "img",
       "property": {
         "src": "https://karanmanral.github.io/site_data/blog/how-to-open-rar-files/images/unarchiver.webp",
@@ -626,11 +591,6 @@
       "type": "h2",
       "property": null,
       "children": "8. IZArc"
-    },
-    {
-      "type": "br",
-      "property": null,
-      "children": null
     },
     {
       "type": "img",
@@ -704,11 +664,6 @@
       "children": "9. ExtractNow"
     },
     {
-      "type": "br",
-      "property": null,
-      "children": null
-    },
-    {
       "type": "img",
       "property": {
         "src": "https://karanmanral.github.io/site_data/blog/how-to-open-rar-files/images/extNow.webp",
@@ -778,11 +733,6 @@
       "type": "h2",
       "property": null,
       "children": "10. BandiZip"
-    },
-    {
-      "type": "br",
-      "property": null,
-      "children": null
     },
     {
       "type": "img",

@@ -35,7 +35,7 @@
       "children": null
     },
     {
-      "type": "h3",
+      "type": "h2",
       "property": null,
       "children": "How to save pictures from Pinterest on or Mac?"
     },
@@ -97,7 +97,7 @@
       "children": null
     },
     {
-      "type": "h3",
+      "type": "h2",
       "property": null,
       "children": "How to download images from pinterest on Android?"
     },
@@ -176,11 +176,6 @@
       ]
     },
     {
-      "type": "br",
-      "property": null,
-      "children": null
-    },
-    {
       "type": "ol",
       "property": { "className": "my-4" },
       "children": [
@@ -217,7 +212,7 @@
       "children": null
     },
     {
-      "type": "h3",
+      "type": "h2",
       "property": null,
       "children": "Save pictures from Pinterest on IOS"
     },
@@ -289,11 +284,6 @@
           ]
         }
       ]
-    },
-    {
-      "type": "br",
-      "property": null,
-      "children": null
     },
     {
       "type": "ol",
