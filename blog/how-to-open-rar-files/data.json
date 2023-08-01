@@ -376,40 +376,6 @@
       ]
     },
     {
-      "type": "h4",
-      "property": null,
-      "children": "Also Use these tools:-"
-    },
-    {
-      "type": "p",
-      "property": null,
-      "children": [
-        {
-          "type": "a",
-          "property": {
-            "href": "/extract-rar",
-            "target": "_blank",
-            "rel": "noreferrer"
-          },
-          "children": "RAR Extractor"
-        },
-        {
-          "type": "span",
-          "property": null,
-          "children": " and "
-        },
-        {
-          "type": "a",
-          "property": {
-            "href": "/extract-7z",
-            "target": "_blank",
-            "rel": "noreferrer"
-          },
-          "children": "7z Extractor"
-        }
-      ]
-    },
-    {
       "type": "br",
       "property": null,
       "children": null
