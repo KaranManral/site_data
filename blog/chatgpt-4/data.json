@@ -1,0 +1,260 @@
+{
+  "id": "chatgpt-4-everything-we-know",
+  "title": "ChatGPT- 4: How to Use? New Features, Availability and more",
+  "author": "Karan Singh Manral",
+  "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+  "data": [
+    {
+      "type": "p",
+      "property": null,
+      "children": "ChatGPT- 4 has arrived, confirming the longtime rumors around its improvements to the predecessor OpenAI's ChatGPT- 3"
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "It generates safer and more helpful responses, according to OpenAI, making it the company's most sophisticated system. This article will tell you all you need to know about it, including how to use it and what it can accomplish."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h3",
+      "property": null,
+      "children": "ChatGPT- 4: Availability"
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/chatgpt-4/images/gpt1.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "ChatGPT- 4: How to Use? New Features, Availability and more",
+        "title": "ChatGPT- 4: How to Use? New Features, Availability and more"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Microsoft indicated ahead of time that GPT-4 would be publicly disclosed on March 13. But, for the time being, it is only available through the ChatGPT Plus premium membership. the present"
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": [
+        {
+          "type": "span",
+          "property": null,
+          "children": "The GPT-3.5 platform will still be used for ChatGPT's free version. Moreover, GPT-4 will provide an API that programmers can use to create applications and services. The first public demonstration of GPT-4 was also "
+        },
+        {
+          "type": "a",
+          "property": {
+            "href": "https://www.youtube.com/watch?v=outcGtbnMuQ",
+            "target": "_blank"
+          },
+          "children": "livestreamed"
+        },
+        {
+          "type": "span",
+          "property": null,
+          "children": " on YouTube, showcasing some of its additional features."
+        }
+      ]
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h3",
+      "property": null,
+      "children": "ChatGPT- 4: How to use?"
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/chatgpt-4/images/gpt2.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "ChatGPT- 4: How to Use?",
+        "title": "ChatGPT- 4: How to Use?"
+      },
+      "children": null
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "The simplest way to get started with GPT-4 today is to use it in Bing Chat. Microsoft revealed that it has been using GPT-4 in its free Bing Chat service. However, some GPT-4 features, such as visual input, are not available in Bing Chat. You will, however, continue to have access to the expanded LLM (large language model) and the advanced intelligence that it brings. Despite being free, Bing Chat has a cap of 15 chats per session and 150 sessions per day. Right now, the only other way to gain access to GPT-4 is to upgrade to ChatGPT Plus. To upgrade to the $20 paid subscription, simply click \"Upgrade to Plus\" in ChatGPT's sidebar."
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "You'll be able to switch between GPT-4 and older versions of the LLM once you've entered your credit card information. You can even double-check that you're getting GPT-4 responses because they have a black logo rather than the green logo used by older models. Using GPT-4 after that is the same as using ChatGPT Plus with GPT-3.5. It's more powerful than ChatGPT and allows you to fine-tune a dataset to get tailored results that match your requirements."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h3",
+      "property": null,
+      "children": "ChatGPT- 4: What's new?"
+    },
+    { "type": "br", "property": null, "children": null },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/chatgpt-4/images/gpt-4-motif.svg",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "ChatGPT- 4: What's new?",
+        "title": "ChatGPT- 4: What's new?"
+      },
+      "children": null
+    },
+    { "type": "br", "property": null, "children": null },
+    {
+      "type": "p",
+      "property": null,
+      "children": "GPT-4 is an OpenAI language model that can generate text that is similar to human speech. It advances ChatGPT's technology, which is currently based on GPT-3.5. GPT stands for Generative Pre-trained Transformer, a deep learning technology that writes like a human using artificial neural networks."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "This next-generation language model, according to OpenAI, is more advanced in three key areas: creativity, visual input, and longer context. GPT-4, according to OpenAI, is much better at both creating and collaborating with users on creative projects. Music, screenplays, technical writing, and even \"learning a user's writing style\" are examples of these."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "This is also influenced by the larger context. GPT-4 can now handle up to 25,000 words of user text. You can also simply send GPT-4 a web link and instruct it to interact with the text on that page. According to OpenAI, this can help with the creation of long-form content as well as \"extended conversations.\""
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "GPT-4 can now receive images as a starting point for interaction. The chatbot is shown an image of a few baking ingredients and asked what can be made with them in the example provided on the GPT-4 website. It is currently unknown whether video can also be used in this manner."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Finally, OpenAI claims that GPT-4 is far safer to use than the previous generation. In OpenAI's internal testing, it reportedly produces 40% more factual responses while being 82% less likely to \"respond to requests for disallowed content.\""
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "To make these advances, OpenAI claims to have been trained with human feedback, claiming to have worked with \"over 50 experts for early feedback in domains including AI safety and security.\""
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Users have been posting some of the amazing things they've done with it in the weeks since it's launch, including inventing new languages, detailing how to escape into the real world, and creating complex animations for apps from scratch. We're starting to learn what it's capable of as the first users flock to get their hands on it. Using a combination of HTML and JavaScript, one user reportedly used GPT-4 to quickly produce a playable Pong game."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h3",
+      "property": null,
+      "children": "Does Bing Chat use ChatGPT 4?"
+    },
+    { "type": "br", "property": null, "children": null },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/chatgpt-4/images/gpt3.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "Does Bing Chat use ChatGPT 4?",
+        "title": "Does Bing Chat use ChatGPT 4?"
+      },
+      "children": null
+    },
+    { "type": "br", "property": null, "children": null },
+    {
+      "type": "p",
+      "property": null,
+      "children": "According to Microsoft, the new Bing, or Bing Chat, is more powerful than ChatGPT. Because OpenAI's chat employs GPT-3.5, there was speculation at the time that Bing Chat might be using GPT-4. Microsoft has recently verified that Bing Chat is based on GPT-4."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Although capabilities like visual input weren't offered on Bing Chat, it is still unclear which specific functions have been included and which have not."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "But, compared to ChatGPT, which can only use the training it got up until 2021, Bing Chat definitely represents an improvement in that it can now get current information via the internet."
+    }
+  ]
+}
