@@ -3,5 +3,173 @@
   "title": "What is TruthGPT that Elon Musk Claims to Be Working On?",
   "author": "Karan Singh Manral",
   "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
-  "data": []
+  "data": [
+    {
+      "type": "p",
+      "property": null,
+      "children": "A new competitor is about to enter the game as artificial intelligence continues to advance at an astounding rate. Elon Musk, a software entrepreneur, has proposed the AI chatbot TruthGPT, which is gaining a lot of attention online. What is TruthGPT, though? Elon Musk wants to construct it for what reason? And how will it vary from the existing AI technologies we have?"
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": "What is TruthGPT?"
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/what-is-truth-gpt/images/TruthGPT.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "TruthGPT",
+        "title": "TruthGPT"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "With a focus on truth and safety, TruthGPT is a suggested AI model that aims to fix the flaws of existing models that power systems like ChatGPT and Bard. Elon Musk claims that TruthGPT will be a “maximum truth-seeking” AI that is aware of the essence of the cosmos and would not be likely to wipe out humanity since it regards us as an essential part of the cosmos."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": "What Would TruthGPT Look Like?"
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/chatgpt-4-everything-we-know/images/gpt2.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "TruthGPT",
+        "title": "TruthGPT"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "The name provides the first clue as to how TruthGPT would seem. TruthGPT will probably have a similar design as ChatGPT given the “GPT” appendage. Keep in mind that Elon Musk played a role in putting together OpenAI and the group that created ChatGPT's GPT concept."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Additionally, since the GPT architecture has achieved both technical and commercial success, taking a different course is probably not worth the time and money. If Elon Musk wants to create something that can actually compete with cutting-edge AI as quickly as feasible, time is one resource he lacks. Don't get too excited because TruthGPT might not be all that different from the existing AI tools."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "An AI model's accuracy, or in Elon Musk's parlance, “truthfulness,” is primarily reliant on its training data and training method. We don't know exactly where Elon Musk's TruthGPT would obtain its training data, but it would need to prioritise data from “truthful sources” in order to have the best chance of creating an LLM that is as “truthful” as possible. But the issue is just that. Truth is a highly individualised idea. What applies to me might not apply to you."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "So, is the concept of an AI that seeks for the most truth even feasible?"
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": "Why Building TruthGPT Is a Huge Challenge?"
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Being accurate at all times is not feasible once you comprehend how complex language models like GPT operate. Since LLMs are typically trained on a sizable dataset of internet data, a significant portion of it will inevitably be erroneous information, and they lack an automatic means of discriminating between the two."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Human trainers who strive to educate the language model what is appropriate and inappropriate behaviour usually provide the best interventions. However, human trainers have prejudice. The AI models are biassed, which negates the very point of a “maximum truth-seeking AI.” The more subliminal biases that creep into the process have to do with how you interpret situations, obstacles, and so on."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Accuracy can, of course, also be addressed from an algorithmic perspective. Nevertheless, regardless of the technique, language ambiguity continues to pose a significant challenge to the accuracy of AI models. Even humans frequently have difficulty correctly interpreting a statement or phrase's meaning, which results in erroneous information. Ambiguity can cause misinterpretations in AI models that result in errors."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Musk seems to view TruthGPT as an opportunity to create an AI model that he feels is best suited to deliver the truth. We are effectively taken back to the beginning of the discussion by the question of how it would occur without injecting his own biases. How do Musk's views on bias and objectivity differ from those of the people who created and oversaw ChatGPT?"
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": "Is TruthGPT an Exciting Possibility?"
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "The goals Elon Musk has for TruthGPT appear admirable and noble. Building an AI model with a low frequency of errors is a difficult undertaking, nevertheless."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Some things are easier said than done, even if we'd expect a tech millionaire who has demystified rocket science to be able to pull anything like this off."
+    }
+  ]
 }

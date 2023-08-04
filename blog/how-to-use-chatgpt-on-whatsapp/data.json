@@ -3,5 +3,325 @@
   "title": "How to use ChatGPT on Whatsapp?",
   "author": "Aditya Raj",
   "authorImg": "https://karanmanral.github.io/site_data/images/author/araj30.webp",
-  "data": []
+  "data": [
+    {
+      "type": "p",
+      "property": null,
+      "children": "By this point, ChatGPT has gained access to practically all devices. The AI chatbot is widely used, from utilising ChatGPT on Siri to having it on your Apple Watch. The unveiling of OpenAI's new GPT-4 language model has only stoked curiosity. But many Whatsapp users still consider ChatGPT to be a pipe dream. But as of right now, you may utilise the AI bot on WhatsApp without having to go through a lengthy process. So, without further ado, let's get started with ChatGPT on WhatsApp."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": "1) Using Shmooz AI to use ChatGPT on Whatsapp"
+    },
+    {
+      "type": "div",
+      "property": {
+        "className": "row",
+        "style": {
+          "margin": "2rem 0"
+        }
+      },
+      "children": [
+        {
+          "type": "div",
+          "property": { "className": "col" },
+          "children": [
+            {
+              "type": "img",
+              "property": {
+                "src": "https://karanmanral.github.io/site_data/blog/how-to-use-chatgpt-on-whatsapp/images/gpt1.webp",
+                "className": "blogImg",
+                "loading": "lazy",
+                "alt": "ShmoozAI",
+                "title": "ShmoozAI"
+              },
+              "children": null
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "property": { "className": "col" },
+          "children": [
+            {
+              "type": "img",
+              "property": {
+                "src": "https://karanmanral.github.io/site_data/blog/how-to-use-chatgpt-on-whatsapp/images/gpt2.webp",
+                "className": "blogImg",
+                "loading": "lazy",
+                "alt": "ShmoozAI",
+                "title": "ShmoozAI"
+              },
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Based on OpenAI's GPT-3 model, Shmooz AI has been tailored for complex human dialogue. This means that the bot behaves as a decent hybrid between a content creator and a natural talker. The chatbot's use is currently free for 5 messages, after that a fees of $9.99 will be charged. For an easy way to rapidly set it up on WhatsApp, follow the instructions below."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "ul",
+      "property": null,
+      "children": [
+        {
+          "type": "li",
+          "property": null,
+          "children": [
+            {
+              "type": "span",
+              "property": null,
+              "children": "Go to the official Shmooz AI "
+            },
+            {
+              "type": "a",
+              "property": { "href": "https://shmooz.ai", "target": "_blank" },
+              "children": "website "
+            },
+            {
+              "type": "span",
+              "property": null,
+              "children": "on your mobile device. Thereafter, select “Start Shmoozing” to get started. Tap the “Open” button if you are prompted to do so."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "property": null,
+          "children": "You will now immediately see a pre-written “Let's shmooz” message in your WhatsApp chat. Send it and start chatting with ChatGPT"
+        }
+      ]
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": "2) How to use ChatGPT on Whatsapp using BuddyGPT?"
+    },
+    {
+      "type": "div",
+      "property": {
+        "className": "row",
+        "style": {
+          "margin": "2rem 0"
+        }
+      },
+      "children": [
+        {
+          "type": "div",
+          "property": { "className": "col" },
+          "children": [
+            {
+              "type": "img",
+              "property": {
+                "src": "https://karanmanral.github.io/site_data/blog/how-to-use-chatgpt-on-whatsapp/images/gpt3.webp",
+                "className": "blogImg",
+                "loading": "lazy",
+                "alt": "BuddyGPT",
+                "title": "BuddyGPT"
+              },
+              "children": null
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "property": { "className": "col" },
+          "children": [
+            {
+              "type": "img",
+              "property": {
+                "src": "https://karanmanral.github.io/site_data/blog/how-to-use-chatgpt-on-whatsapp/images/gpt4.webp",
+                "className": "blogImg",
+                "loading": "lazy",
+                "alt": "BuddyGPT",
+                "title": "BuddyGPT"
+              },
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "It is a GPT-based chatbot with the ability to produce visuals. Let's start by configuring it to use ChatGPT on Whatsapp."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "ul",
+      "property": null,
+      "children": [
+        {
+          "type": "li",
+          "property": null,
+          "children": [
+            {
+              "type": "span",
+              "property": null,
+              "children": "Go to "
+            },
+            {
+              "type": "a",
+              "property": { "href": "https://buddygpt.ai", "target": "_blank" },
+              "children": "official website "
+            },
+            {
+              "type": "span",
+              "property": null,
+              "children": "of BuddyGPT on your phone and tap try for free on whatsapp"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "property": null,
+          "children": "On the whatsapp chat screen type “hello” and send"
+        },
+        {
+          "type": "li",
+          "property": null,
+          "children": "You will receive a message containing several commands to be used. Read them and start using ChatGPT."
+        }
+      ]
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "However you get only 15 free messages per month."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": "3) How to Use ChatGPT on WhatsApp Using WizAI?"
+    },
+    {
+      "type": "div",
+      "property": {
+        "className": "row",
+        "style": {
+          "margin": "2rem 0"
+        }
+      },
+      "children": [
+        {
+          "type": "div",
+          "property": { "className": "col" },
+          "children": [
+            {
+              "type": "img",
+              "property": {
+                "src": "https://karanmanral.github.io/site_data/blog/how-to-use-chatgpt-on-whatsapp/images/gpt5.webp",
+                "className": "blogImg",
+                "loading": "lazy",
+                "alt": "WizAI",
+                "title": "WizAI"
+              },
+              "children": null
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "property": { "className": "col" },
+          "children": [
+            {
+              "type": "img",
+              "property": {
+                "src": "https://karanmanral.github.io/site_data/blog/how-to-use-chatgpt-on-whatsapp/images/gpt6.webp",
+                "className": "blogImg",
+                "loading": "lazy",
+                "alt": "WizAI",
+                "title": "WizAI"
+              },
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "It is also a ChatGPT solution on WhatsApp that is built on the GPT-3 LLM and can do quite a bit. WizAI can create any kind of material, and you can chat with it on WhatsApp just like a friend. Therefore, use the instructions below to configure ChatGPT on WhatsApp."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "ul",
+      "property": null,
+      "children": [
+        {
+          "type": "li",
+          "property": null,
+          "children": [
+            {
+              "type": "span",
+              "property": null,
+              "children": "Go to "
+            },
+            {
+              "type": "a",
+              "property": {
+                "href": "https://www.getwiz.xyz",
+                "target": "_blank"
+              },
+              "children": "official website "
+            },
+            {
+              "type": "span",
+              "property": null,
+              "children": "of WizAI on your phone and tap Get Started"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "property": null,
+          "children": "On the whatsapp chat screen type “hello” and send"
+        },
+        {
+          "type": "li",
+          "property": null,
+          "children": "You will receive a message from bot. Start Chatting with bot. However you get only 5 free messages for now."
+        }
+      ]
+    }
+  ]
 }

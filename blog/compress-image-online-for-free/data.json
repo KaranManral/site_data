@@ -3,5 +3,329 @@
   "title": "How to Compress Image Online For Free?",
   "author": "Karan Singh Manral",
   "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
-  "data": []
+  "data": [
+    {
+      "type": "p",
+      "property": null,
+      "children": "Want to make your website more appealing and attractive by using high-quality images?"
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "The main issue arises with size of those beautiful images which is so large to damage your website's loading speed. Now you don't need to worry about the size of images because there are several tools to solve this problem."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "In this article you will come across several image optimization tools.So let's begin."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": "What is Image Optimization?"
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Image optimization is about reducing the file size of your images as much as possible without sacrificing quality so that your page load times remain low. It's also about image SEO i.e. getting your product images and decorative images to rank on Google and other image search engines."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": "1. iLoveIMG"
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/compress-image-online-for-free/images/ilmg.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "iLoveIMG",
+        "title": "iLoveIMG"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Born and based in Barcelona, since 2016 iLoveIMG offers simple and smooth image editing tools that load fast and get the job done."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Now, you can easily modify images in bulk, fast! The tools have everything you need to compress, crop, convert, and resize images all in one place. You can even make animated GIFs with just a few clicks, and it's all free."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": [
+        {
+          "type": "span",
+          "property": null,
+          "children": "Visit "
+        },
+        {
+          "type": "a",
+          "property": {
+            "href": "https://www.iloveimg.com/compress-image",
+            "target": "_blank",
+            "rel": "noreferrer"
+          },
+          "children": "Compress Image - ILoveImg"
+        }
+      ]
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": "2. Compress Image - Try Web Soft"
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/compress-image-online-for-free/images/compImgTWS.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "Compress Image - Try Web Soft",
+        "title": "Compress Image - Try Web Soft"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Compress Image is a online web based image compressor that compresses multiple images at a time."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "It is a pure javascript based tool that doesn't use any server which make it safer than any other image compressor online. It is a free to use software where you can compress your images quickly at no cost."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": [
+        {
+          "type": "span",
+          "property": null,
+          "children": "Visit "
+        },
+        {
+          "type": "a",
+          "property": {
+            "href": "https://trywebsoft.com/compress-image",
+            "target": "_blank",
+            "rel": "noreferrer"
+          },
+          "children": "Compress Image - Try Web Soft"
+        }
+      ]
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": "3. TinyPNG"
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/compress-image-online-for-free/images/tinypng.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "TinyPNG",
+        "title": "TinyPNG"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Tiny PNG is an online image compression business. Its compression algorithm facilitates fantastic performance by reducing image sizes without adversely affecting their quality from a visual perspective. As the name suggests, it works on PNG file types."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "But in terms of compressing any image, it will also compress JPEG images. The free version restricts the file size to a maximum of 5mb. If an image is much larger than this, then it will still be too big for your website. You can upload up to 20 images at once and up to 100 images in a month. The size for each image should be up to 5 MB."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Using the TinyPNG compression tool is easy. Users just have to drag and drop the files, and in just a few seconds, depending on the size of the image, after clicking to download the files separately or all together in zipping to save them to Dropbox."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": [
+        {
+          "type": "span",
+          "property": null,
+          "children": "Visit "
+        },
+        {
+          "type": "a",
+          "property": {
+            "href": "https://tinypng.com/",
+            "target": "_blank",
+            "rel": "noreferrer"
+          },
+          "children": "Tiny PNG"
+        }
+      ]
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": "4. Kraken"
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Kraken is one of the most reliable image optimization tools out there. It has 3 main modes of compression; Lossless, Lossy and Expert, with different optimization algorithms operating accordingly."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "The Lossy optimization mode definitely serves most users' requirements. Its results are 60-80% smaller file sizes compared to the original. This algorithm produces images that are of good quality as compared to the original."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "For a photographer or a professional that needs to work with images of the highest quality, then Lossless mode is the best choice. This offers no reduction in the quality of the compressed image. This mode does not affect the pixel quality. This is suitable for situations that have high-quality requirements for visuals, such as marketing graphics."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "The Expert view provides users with more detailed tweaks and is designed for users already familiar with image processing and optimization processes. This facilitates different quality levels for lossy JPEG and PNG optimization, preserves certain entries in the EXIF metadata, and automatically modifies image orientation."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": "5. Optimizilla"
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Optimizilla is just like TinyPNG, which supports JPEG and PNG formats. It provides a good quality/size ratio as it combines great optimization and lossy compression algorithms to attain the minimum possible size whilst maintaining the quality level."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": [
+        {
+          "type": "span",
+          "property": null,
+          "children": "Visit "
+        },
+        {
+          "type": "a",
+          "property": {
+            "href": "https://imagecompressor.com/",
+            "target": "_blank",
+            "rel": "noreferrer"
+          },
+          "children": "Optimizilla"
+        }
+      ]
+    }
+  ]
 }

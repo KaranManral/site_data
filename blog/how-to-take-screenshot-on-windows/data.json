@@ -3,5 +3,314 @@
   "title": "5 ways to take a screenshot on Windows 10 and Windows 11",
   "author": "Karan Singh Manral",
   "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
-  "data": []
+  "data": [
+    {
+      "type": "p",
+      "property": null,
+      "children": "There are various techniques you can employ to snap a screenshot on a Windows 10 or Windows 11 PC."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "We've picked together the best ways to snap a Windows screenshot, whether you want to save the entire screen or just a portion of it."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": [
+        {
+          "type": "strong",
+          "property": null,
+          "children": "1. The Print Screen button"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/how-to-take-screenshot-on-windows/images/prtsc1.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "PrtScn",
+        "title": "PrtScn"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "By hitting the Print Screen (PrtScn) key on your keyboard, you may quickly snap a screenshot of your full screen in Windows 10 or Windows 11."
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/how-to-take-screenshot-on-windows/images/prtsc2.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "MS Paint",
+        "title": "MS Paint"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "The screenshot will be transferred to your clipboard. Use any program, such as Microsoft Word or Paint, that lets you input photos to save the file by pasting the screenshot into it."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": [
+        {
+          "type": "strong",
+          "property": null,
+          "children": "2. The Windows key + Print Screen"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/how-to-take-screenshot-on-windows/images/wdprtsc.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "Windows + PrtScn",
+        "title": "Windows + PrtScn"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Press the Windows key + PrtScn to take a screenshot in Windows 10 or Windows 11 and have the file saved automatically to the Screenshots folder."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": [
+        {
+          "type": "strong",
+          "property": null,
+          "children": "3. The Snip & Sketch tool in Windows"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/how-to-take-screenshot-on-windows/images/snip1.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "The Snip & Sketch tool",
+        "title": "The Snip & Sketch tool"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "If you want to personalise, annotate, or share your screenshots, the Windows 10 Snip & Sketch app is the finest method to snapshot on Windows. As it provides editing tools like an eraser, a ruler, and cropping tools, this is the easiest approach to annotate your screenshots before sharing them."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Use Windows Key + Shift + S on the keyboard to launch Snip & Sketch. You'll have the choice to take a rectangular, free-form, window, or full-screen capture once your screen dims and a little menu pops up at the top of it."
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/how-to-take-screenshot-on-windows/images/snip2.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "The Snip & Sketch tool in Windows",
+        "title": "The Snip & Sketch tool in Windows"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "After you take the screenshot, it will be saved to your clipboard and a preview notification will show in the bottom-right corner of your screen."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "To save, share, or alter the snapshot using the various drawing tools, click the preview notice to launch the Snip & Sketch app."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": [
+        {
+          "type": "strong",
+          "property": null,
+          "children": "4. Windows Game Bar"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/how-to-take-screenshot-on-windows/images/gamebar.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "XBox Game Bar Windows",
+        "title": "XBox Game Bar Windows"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": [
+        {
+          "type": "ol",
+          "property": null,
+          "children": [
+            {
+              "type": "li",
+              "property": null,
+              "children": [
+                {
+                  "type": "span",
+                  "property": null,
+                  "children": "Press "
+                },
+                {
+                  "type": "strong",
+                  "property": null,
+                  "children": "Windows+G"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": [
+                {
+                  "type": "span",
+                  "property": null,
+                  "children": "Click the "
+                },
+                {
+                  "type": "strong",
+                  "property": null,
+                  "children": "Camera icon"
+                },
+                {
+                  "type": "span",
+                  "property": null,
+                  "children": ". You can also record a video clip of current screen by pressing start recording button."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "span",
+          "property": null,
+          "children": "You may locate screenshots and video clips that were taken by the Game Bar in the Videos > Captures folder in File Explorer . These files are saved in the PNG and MP4 formats. Additionally, you may access them through the Game Bar's Gallery by selecting Show my captures > See my captures from the Capture menu, which is located beneath the screenshot and recording buttons."
+        }
+      ]
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": [
+        {
+          "type": "strong",
+          "property": null,
+          "children": "5. Lightshot"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/how-to-take-screenshot-on-windows/images/lightshot.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "LightShot",
+        "title": "LightShot"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": [
+        {
+          "type": "ol",
+          "property": null,
+          "children": [
+            {
+              "type": "li",
+              "property": null,
+              "children": "Download Lightshot for windows"
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Press right click on Lightshot icon in taskbar and click take a screenshot or simply press PrtSc key."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Select the area of screen you want to snap."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Click save icon to save screenshot as PNG or click Copy icon or press Ctrl+C to copy screenshot to clipboard."
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

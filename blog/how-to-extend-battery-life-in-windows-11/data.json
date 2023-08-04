@@ -3,5 +3,293 @@
   "title": "7 Tips to Extend Battery Life on Windows 11",
   "author": "Karan Singh Manral",
   "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
-  "data": []
+  "data": [
+    {
+      "type": "h2",
+      "property": null,
+      "children": [
+        {
+          "type": "strong",
+          "property": null,
+          "children": "Introduction"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/how-to-extend-battery-life-in-windows-11/images/battery1.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "System : Power and Battery",
+        "title": "System : Power and Battery"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "One of the key concerns for laptop users is maximizing battery life. Windows 11, the latest operating system from Microsoft, offers several features and optimizations that can help you make the most of your laptop's battery. In this article, we will explore some effective tips to extend battery life on Windows 11."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": [
+        {
+          "type": "strong",
+          "property": null,
+          "children": "1. Optimize Power Settings"
+        }
+      ]
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Windows 11 provides power profiles that allow you to choose between power-saving, balanced, and high-performance modes. To extend battery life, select the power-saving mode or customize your own power plan. Adjust settings such as screen brightness, display timeout, and sleep settings to conserve power when the device is idle."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": [
+        {
+          "type": "strong",
+          "property": null,
+          "children": "2. Manage Background Apps"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/how-to-extend-battery-life-in-windows-11/images/battery2.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "Task Manager",
+        "title": "Task Manager"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Background apps can drain your battery, even when you're not actively using them. Windows 11 offers an improved app management system that allows you to control which apps can run in the background. Go to Settings > System > Background apps and disable unnecessary apps from running in the background, saving valuable battery resources."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": [
+        {
+          "type": "strong",
+          "property": null,
+          "children": "3. Enable Battery Saver"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/how-to-extend-battery-life-in-windows-11/images/battery3.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "System : Power and Battery",
+        "title": "System : Power and Battery"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Windows 11 introduces an enhanced Battery Saver mode that limits background activities, adjusts system settings, and reduces unnecessary notifications to extend battery life. Activate Battery Saver by clicking on the battery icon in the system tray and toggling the Battery Saver option."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": [
+        {
+          "type": "strong",
+          "property": null,
+          "children": "4. Use the Power Throttling Feature"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/how-to-extend-battery-life-in-windows-11/images/battery4.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "Battery Usage By Apps",
+        "title": "Battery Usage By Apps"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Power Throttling is a built-in feature in Windows 11 that intelligently manages CPU performance to reduce power consumption. It prioritizes power for important tasks while throttling back performance for less critical processes. This feature can significantly extend battery life without sacrificing overall system performance."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": [
+        {
+          "type": "strong",
+          "property": null,
+          "children": "5. Update Drivers and Firmware"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/how-to-extend-battery-life-in-windows-11/images/battery5.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "Windows Update : Advanced options",
+        "title": "Windows Update : Advanced options"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Outdated drivers and firmware can cause excessive power consumption. Regularly check for updates from your laptop manufacturer's website or use Windows Update to ensure you have the latest drivers and firmware installed. Updated software often includes performance and power optimizations that can benefit battery life."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": [
+        {
+          "type": "strong",
+          "property": null,
+          "children": "6. Adjust Visual Effects"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/how-to-extend-battery-life-in-windows-11/images/battery6.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "Performance Options",
+        "title": "Performance Options"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Windows 11 offers several visual effects and animations that enhance the user experience but consume additional system resources. Disabling or reducing these effects can help save power. Open the System Properties window by pressing Windows key + Pause/Break, go to the Advanced tab, and click on the Settings button under the Performance section. Choose the “Adjust for best performance” option or customize specific visual effects according to your preference."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": [
+        {
+          "type": "strong",
+          "property": null,
+          "children": "7. Disable Unnecessary Connectivity Options"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/how-to-extend-battery-life-in-windows-11/images/battery7.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "Disable Unnecessary Connectivity Options",
+        "title": "Disable Unnecessary Connectivity Options"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Bluetooth, Wi-Fi, and other wireless connectivity options consume power when enabled. If you're not using these features, disable them to conserve battery life. You can toggle them on and off through the Action Center in Windows 11 or through the Settings app."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": [
+        {
+          "type": "strong",
+          "property": null,
+          "children": "Conclusion"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Windows 11 provides several built-in features and optimizations that can help extend battery life on your laptop. By optimizing power settings, managing background apps, utilizing Battery Saver mode, and implementing other tips mentioned in this article, you can significantly improve your laptop's battery performance. Incorporate these practices into your routine, and enjoy longer battery life without compromising your productivity on Windows 11."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": [
+        {
+          "type": "strong",
+          "property": null,
+          "children": "Note: "
+        },
+        {
+          "type": "span",
+          "property": null,
+          "children": "Please note that the tips mentioned in this article are general guidelines, and your specific laptop model and hardware configuration may have unique power-saving features or considerations."
+        }
+      ]
+    }
+  ]
 }

@@ -3,5 +3,229 @@
   "title": "Google Bard : Everything we know about Google's AI",
   "author": "Aditya Raj",
   "authorImg": "https://karanmanral.github.io/site_data/images/author/araj30.webp",
-  "data": []
+  "data": [
+    {
+      "type": "p",
+      "property": null,
+      "children": "Google Bard, a generative AI chatbot built on Google's Language Model for Dialogue Applications (LaMDA), aims to bring together the depth of human knowledge and the strength, intelligence, and creativity of our huge language models."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Although Google Search is the most widely used information source on the planet, Google Bard has so far been eclipsed by Microsoft's ChatGPT."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "You can join the Google Bard waitlist, which takes around an hour, to use Bard. Here is all the information you need to know about Google Bard, including how it functions, what's coming next, and how it contrasts with ChatGPT."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": "Google Bard: Availability"
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/google-bard-everything-we-know-about-google-ai/images/bard1.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "Google Bard : Everything we know about Google's AI",
+        "title": "Google Bard : Everything we know about Google's AI"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "There isn't a mobile app for Google Bard. Visit bard.google.com, sign up for the waitlist using your Gmail account, and then wait for approval."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "It was initially only accessible to Pixel Superfans, with Google One subscribers moving up the waiting list. But now that Bard has been made available to more people, practically everyone should be able to rapidly access it."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "You can use text questions or text-to-speech with your device's microphone to access it through your web browser on any phone, tablet, or laptop. You can access ChatGPT on a WearOS watch, but you can't (yet) access it on your smartwatch. Numerous apps use ChatGPT as an information plugin as well, a feature that Google does not yet provide."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": "Google Bard: Reliability and Controversy"
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/google-bard-everything-we-know-about-google-ai/images/bard2.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "Google Bard : Everything we know about Google's AI",
+        "title": "Google Bard : Everything we know about Google's AI"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Regarding Bard in particular, it is well known that during its unveiling, it provided the incorrect response, which led to a stock decline and led many people, including Google personnel, to believe that Bard had been hurried out."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Google does want to integrate Bard into Google Search at some point in the future, despite the fact that it is currently being implemented more slowly than ChatGPT, which has been integrated directly into Bing Search. Additionally, it is merging multiple AI departments to help Bard develop into a ChatGPT competitor."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Jacob Devlin, a former Google employee, stated that the company trained Bard on ShareGPT, a site where users publish the AI's responses, which became another point of contention. Furthermore, a company insider claimed that Google only stopped doing this after Devlin objected to the practice."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "But Google said, “Bard is not trained on any ShareGPT or ChatGPT data.”"
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Any AI bot can be accused of using content that has been plagiarised without due attribution. Bard and ChatGPT are intended to be conversational, therefore it's unlikely that someone would say, “As I learned from X website, Y is true.” However, this implies that websites generate data that crawlers collect and repackage for consumers without payment or a link to the original page."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
+      "children": "Google Bard Vs ChatGPT"
+    },
+    {
+      "type": "img",
+      "property": {
+        "src": "https://karanmanral.github.io/site_data/blog/google-bard-everything-we-know-about-google-ai/images/bard3.webp",
+        "className": "blogImg",
+        "loading": "lazy",
+        "alt": "Google Bard : Everything we know about Google's AI",
+        "title": "Google Bard : Everything we know about Google's AI"
+      },
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "It's a bit of a gamble comparing these two AI bots at this early stage. Both of them are inconsistent, so you can ask either one a question and you won't be able to predict which one will respond more favourably. Generally speaking, neither can be relied upon to be accurate without further investigation."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Given that ChatGPT 3.5 was only trained with data up to the year 2021, in contrast to Google Bard, which draws its data from the most recent information available, questions regarding current events are likely to result in erroneous replies. Bard might not always answer a question correctly, though."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "It will feel more like a rigorous Q&A than a discussion because Google “purposefully limited” Bard's capacity to recall and contextualise prior queries. The converse is true with ChatGPT: you'll have full-on talks that might go entirely off the rails, as happened when the Bing AI announced its love for a New York Times writer and attempted to end his marriage."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "The most recent version of ChatGPT is also made for more complex tasks like deciphering what's happening in a picture or video and reacting appropriately. Right now, getting the most recent AI version requires purchasing ChatGPT Plus for $20 per month. Right now, Google Bard's most recent version is still completely free."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Despite Google's dominance in software and AI, Google Bard still has a lot to show. Perhaps Google should have delayed its release, or perhaps there was no other option until Microsoft and ChatGPT had monopolised the market for AI chatbots, making a later Bard launch doomed to failure. It's challenging to say."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "However, Bard won't be successful unless Google starts squeezing Bard into Google Search on both Android and iPhones, where users other than die-hard techies would find it naturally. However, if Bard is incorporated into Search and results become less accurate, this will damage the brand's reputation and drive users to Bing."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "It will be interesting to follow this."
+    }
+  ]
 }
