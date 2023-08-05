@@ -195,63 +195,57 @@
       "children": null
     },
     {
-      "type": "p",
+      "type": "ol",
       "property": null,
       "children": [
         {
-          "type": "ol",
+          "type": "li",
           "property": null,
           "children": [
             {
-              "type": "li",
+              "type": "span",
               "property": null,
-              "children": [
-                {
-                  "type": "span",
-                  "property": null,
-                  "children": "Press "
-                },
-                {
-                  "type": "strong",
-                  "property": null,
-                  "children": "Windows+G"
-                }
-              ]
+              "children": "Press "
             },
             {
-              "type": "li",
+              "type": "strong",
               "property": null,
-              "children": [
-                {
-                  "type": "span",
-                  "property": null,
-                  "children": "Click the "
-                },
-                {
-                  "type": "strong",
-                  "property": null,
-                  "children": "Camera icon"
-                },
-                {
-                  "type": "span",
-                  "property": null,
-                  "children": ". You can also record a video clip of current screen by pressing start recording button."
-                }
-              ]
+              "children": "Windows+G"
             }
           ]
         },
         {
-          "type": "br",
+          "type": "li",
           "property": null,
-          "children": null
-        },
-        {
-          "type": "span",
-          "property": null,
-          "children": "You may locate screenshots and video clips that were taken by the Game Bar in the Videos > Captures folder in File Explorer . These files are saved in the PNG and MP4 formats. Additionally, you may access them through the Game Bar's Gallery by selecting Show my captures > See my captures from the Capture menu, which is located beneath the screenshot and recording buttons."
+          "children": [
+            {
+              "type": "span",
+              "property": null,
+              "children": "Click the "
+            },
+            {
+              "type": "strong",
+              "property": null,
+              "children": "Camera icon"
+            },
+            {
+              "type": "span",
+              "property": null,
+              "children": ". You can also record a video clip of current screen by pressing start recording button."
+            }
+          ]
         }
       ]
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "You may locate screenshots and video clips that were taken by the Game Bar in the Videos > Captures folder in File Explorer . These files are saved in the PNG and MP4 formats. Additionally, you may access them through the Game Bar's Gallery by selecting Show my captures > See my captures from the Capture menu, which is located beneath the screenshot and recording buttons."
     },
     {
       "type": "br",
@@ -281,34 +275,28 @@
       "children": null
     },
     {
-      "type": "p",
+      "type": "ol",
       "property": null,
       "children": [
         {
-          "type": "ol",
+          "type": "li",
           "property": null,
-          "children": [
-            {
-              "type": "li",
-              "property": null,
-              "children": "Download Lightshot for windows"
-            },
-            {
-              "type": "li",
-              "property": null,
-              "children": "Press right click on Lightshot icon in taskbar and click take a screenshot or simply press PrtSc key."
-            },
-            {
-              "type": "li",
-              "property": null,
-              "children": "Select the area of screen you want to snap."
-            },
-            {
-              "type": "li",
-              "property": null,
-              "children": "Click save icon to save screenshot as PNG or click Copy icon or press Ctrl+C to copy screenshot to clipboard."
-            }
-          ]
+          "children": "Download Lightshot for windows"
+        },
+        {
+          "type": "li",
+          "property": null,
+          "children": "Press right click on Lightshot icon in taskbar and click take a screenshot or simply press PrtSc key."
+        },
+        {
+          "type": "li",
+          "property": null,
+          "children": "Select the area of screen you want to snap."
+        },
+        {
+          "type": "li",
+          "property": null,
+          "children": "Click save icon to save screenshot as PNG or click Copy icon or press Ctrl+C to copy screenshot to clipboard."
         }
       ]
     }
