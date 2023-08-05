@@ -9,7 +9,7 @@
       "data": [
         {
           "type": "h1",
-          "property": { "style": { "className": "main_title text-center" } },
+          "property": { "className": "main_title text-center" },
           "children": "About Us"
         },
         {
@@ -99,7 +99,7 @@
       "data": [
         {
           "type": "h1",
-          "property": { "style": { "className": "main_title text-center" } },
+          "property": { "className": "main_title text-center" },
           "children": "Frequently Asked Questions"
         },
         {
@@ -109,7 +109,7 @@
         },
         {
           "type": "h2",
-          "property": { "style": { "className": "sub_title text-center" } },
+          "property": { "className": "sub_title text-center" },
           "children": "Get to know the process to use this site here"
         },
         {
@@ -396,7 +396,7 @@
       "data": [
         {
           "type": "h1",
-          "property": { "style": { "className": "main_title text-center" } },
+          "property": { "className": "main_title text-center" },
           "children": "Privacy Policy"
         },
         {
@@ -411,7 +411,7 @@
         },
         {
           "type": "h2",
-          "property": { "style": { "className": "sub_title" } },
+          "property": { "className": "sub_title" },
           "children": "Privacy Policy For Try Web Soft"
         },
         {
@@ -450,7 +450,7 @@
         },
         {
           "type": "h2",
-          "property": { "style": { "className": "sub_title" } },
+          "property": { "className": "sub_title" },
           "children": "Consent"
         },
         {
@@ -470,7 +470,7 @@
         },
         {
           "type": "h2",
-          "property": { "style": { "className": "sub_title" } },
+          "property": { "className": "sub_title" },
           "children": "Information we collect"
         },
         {
@@ -500,7 +500,7 @@
         },
         {
           "type": "h2",
-          "property": { "style": { "className": "sub_title" } },
+          "property": { "className": "sub_title" },
           "children": "How we use your information"
         },
         {
@@ -561,7 +561,7 @@
         },
         {
           "type": "h2",
-          "property": { "style": { "className": "sub_title" } },
+          "property": { "className": "sub_title" },
           "children": "Log Files"
         },
         {
@@ -581,7 +581,7 @@
         },
         {
           "type": "h2",
-          "property": { "style": { "className": "sub_title" } },
+          "property": { "className": "sub_title" },
           "children": "Google DoubleClick DART Cookie"
         },
         {
@@ -615,7 +615,7 @@
         },
         {
           "type": "h2",
-          "property": { "style": { "className": "sub_title" } },
+          "property": { "className": "sub_title" },
           "children": "Our Advertising Partners"
         },
         {
@@ -665,7 +665,7 @@
         },
         {
           "type": "h2",
-          "property": { "style": { "className": "sub_title" } },
+          "property": { "className": "sub_title" },
           "children": "Advertising Partners Privacy Policies"
         },
         {
@@ -695,7 +695,7 @@
         },
         {
           "type": "h2",
-          "property": { "style": { "className": "sub_title" } },
+          "property": { "className": "sub_title" },
           "children": "Third Party Privacy Policies"
         },
         {
@@ -720,7 +720,7 @@
         },
         {
           "type": "h2",
-          "property": { "style": { "className": "sub_title" } },
+          "property": { "className": "sub_title" },
           "children": "CCPA Privacy Rights (Do Not Sell My Personal Information)"
         },
         {
@@ -766,7 +766,7 @@
         },
         {
           "type": "h2",
-          "property": { "style": { "className": "sub_title" } },
+          "property": { "className": "sub_title" },
           "children": "GDPR Data Protection Rights"
         },
         {
@@ -827,7 +827,7 @@
         },
         {
           "type": "h2",
-          "property": { "style": { "className": "sub_title" } },
+          "property": { "className": "sub_title" },
           "children": "Children's Information"
         },
         {
