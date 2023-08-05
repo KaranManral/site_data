@@ -1,6 +1,853 @@
 {
   "sites": [
     {
+      "id": "about",
+      "title": "About | All details about product Try Web Soft",
+      "og_title": "About",
+      "description": "Try Web Soft is a website that provides basic photo,video compression, conversion and editing etc. features online at one place for free.",
+      "url": "https://trywebsoft.com/about",
+      "data": [
+        {
+          "type": "h1",
+          "property": { "style": { "class": "main_title text-center" } },
+          "children": "About Us"
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": [
+            {
+              "type": "strong",
+              "property": null,
+              "children": "Try Web Soft"
+            },
+            {
+              "type": "span",
+              "property": null,
+              "children": " is a web project designed by using basic html, javascript and other frameworks. This product provides basic functionalities required by individuals in daily life such as video editing, photo editing, zipping files, unzipping files, converting file formats and lots more similar tasks at no cost."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": [
+            {
+              "type": "span",
+              "property": null,
+              "children": "This product eases the work for a user since you don't have to pay for any software or install any insecure software that might infect your system. You can just simply visit our website "
+            },
+            {
+              "type": "a",
+              "property": {
+                "href": "https://trywebsoft.com",
+                "target": "_blank"
+              },
+              "children": "https://trywebsoft.com"
+            },
+            {
+              "type": "span",
+              "property": null,
+              "children": " and get your work done with a few simple steps without taking any stress about your data."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "Our service is purely based on frontend(browser) i.e. no server is involed in any task thus making it even more safe over web and minimizing any chance of data breach."
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "This product has been developed by us for educational/learning purpose and is still in its development phase thus your feedback is really valuable for us. We are working really hard everyday to bring new features for you."
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": [
+            {
+              "type": "strong",
+              "property": { "style": { "font-style": "italic" } },
+              "children": "You can send your feedbacks on email provided below in the contact section."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "help",
+      "title": "Help | Frequently Asked Questions | FAQs",
+      "og_title": "Help",
+      "description": "Frequently Asked Questions - Try Web Soft",
+      "url": "https://trywebsoft.com/help",
+      "data": [
+        {
+          "type": "h1",
+          "property": { "style": { "class": "main_title text-center" } },
+          "children": "Frequently Asked Questions"
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h2",
+          "property": { "style": { "class": "sub_title text-center" } },
+          "children": "Get to know the process to use this site here"
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h4",
+          "property": null,
+          "children": "How to compress JPG image file?"
+        },
+        {
+          "type": "ol",
+          "property": null,
+          "children": [
+            {
+              "type": "li",
+              "property": null,
+              "children": "Go to JPG Compressor page."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Click on upload button and select an image file (jpeg,jpg) or drag and drop an image file (jpeg,jpg)."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Wait till the image is loaded in browser."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Once the next screen is visible either download image by clicking download button or if you need more compression, then lower the quality of image using slider and click compress button."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Finally click on the download button and get your compressed image downloaded in no time."
+            }
+          ]
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h4",
+          "property": null,
+          "children": "How to compress video?"
+        },
+        {
+          "type": "ol",
+          "property": null,
+          "children": [
+            {
+              "type": "li",
+              "property": null,
+              "children": "Go to Video Compressor page."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Click on upload button and select a video file (mp4,mkv,mov,webm)."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Wait till the video is loaded in browser. Larger files can take lot of time so it is advised to upload video upto 300 MB. If you have uploaded mkv file then you might not see video in video player, it is normal, don't panic."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Once the next screen is visible select preset from the given list (Slower the preset, higher the compression and quality of video) and set the CRF value using the provided slider (Higher the crf, more is the compression but quality is lost at high crf. Value between 18 and 28 are ideal for good quality compression)."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "After setting preset and CRF click on Compress Video and wait patiently till your file gets processed. Do not refresh or close the page during process."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Finally click on the download button and get your video downloaded in no time."
+            }
+          ]
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h4",
+          "property": null,
+          "children": "How to add subtitles to your video?"
+        },
+        {
+          "type": "ol",
+          "property": null,
+          "children": [
+            {
+              "type": "li",
+              "property": null,
+              "children": "Go to Video Subtitle Generator page."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Click on upload button and select a video file (mp4,mkv,mov,webm)."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Wait till the video is loaded in browser. Larger files can take lot of time so it is advised to upload video upto 300 MB. If you have uploaded mkv file then you might not see video in video player, it is normal, don't panic."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Now click on Upload Subtitle button and select a .srt or .vtt file."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Wait patiently till your video gets processed. Do not refresh or close the page during process."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Finally click on the download button and get your video downloaded in no time."
+            }
+          ]
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h4",
+          "property": null,
+          "children": "How to generate subtitles for your video?"
+        },
+        {
+          "type": "ol",
+          "property": null,
+          "children": [
+            {
+              "type": "li",
+              "property": null,
+              "children": "Go to Video Subtitle Generator page."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Click on upload button and select a video file (mp4,mkv,mov,webm)."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Wait till the video is loaded in browser. Larger files can take lot of time so it is advised to upload video upto 300 MB. If you have uploaded mkv file then you might not see video in video player, it is normal, don't panic."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Now click on Generate Subtitle button."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "In the new window fill start time, end time and subtitle text in the given columns."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Add more subtitles using Add Row button and use Delete Row button if you put the wrong input."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "You can play the video on same page and check the added subtitles working or not."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Click on Get .SRT or Get .VTT button if you just need the subtitle file."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Else click on Add to Video button to add written subtitles to video."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Wait patiently till your video gets processed. Do not refresh or close the page during process."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Finally click on the download button and get your video downloaded in no time."
+            }
+          ]
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h4",
+          "property": null,
+          "children": "How to extract a zip,rar,7z,tar or rar5 file?"
+        },
+        {
+          "type": "ol",
+          "property": null,
+          "children": [
+            {
+              "type": "li",
+              "property": null,
+              "children": "Go to Archive Extractor page or seperate extractor pages."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Click on upload button and select a archive file (zip,rar,7z,tar,rar5)."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Wait till the file is loaded and extracted for you."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Now select the checkboxes against files you want to download."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Click on the Download Selected Button above files."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Finally click on allow when browser shows popup for multiple files download."
+            }
+          ]
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h2",
+          "property": null,
+          "children": "For more help mail us at :"
+        },
+        {
+          "type": "a",
+          "property": {
+            "style": { "font-style": "italic" },
+            "href": "mailto:trywebsoft@gmail.com"
+          },
+          "children": "trywebsoft@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": "privacy-policy",
+      "title": "Privacy Policy | Terms and conditions",
+      "og_title": "Privacy Policy",
+      "description": "Privacy Policy - Try Web Soft",
+      "url": "https://trywebsoft.com/privacy-policy",
+      "data": [
+        {
+          "type": "h1",
+          "property": { "style": { "class": "main_title text-center" } },
+          "children": "Privacy Policy"
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h2",
+          "property": { "style": { "class": "sub_title" } },
+          "children": "Privacy Policy For Try Web Soft"
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": [
+            {
+              "type": "span",
+              "property": null,
+              "children": "At Try Web Soft, accessible from "
+            },
+            {
+              "type": "a",
+              "property": {
+                "href": "https://trywebsoft.com",
+                "target": "_blank"
+              },
+              "children": "https://trywebsoft.com"
+            },
+            {
+              "type": "span",
+              "property": null,
+              "children": ", one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Try Web Soft and how we use it."
+            }
+          ]
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h2",
+          "property": { "style": { "class": "sub_title" } },
+          "children": "Consent"
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "By using our website, you hereby consent to our Privacy Policy and agree to its terms."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h2",
+          "property": { "style": { "class": "sub_title" } },
+          "children": "Information we collect"
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information."
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide."
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h2",
+          "property": { "style": { "class": "sub_title" } },
+          "children": "How we use your information"
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "We use the information we collect in various ways, including to:"
+        },
+        {
+          "type": "ul",
+          "property": null,
+          "children": [
+            {
+              "type": "li",
+              "property": null,
+              "children": "Provide, operate, and maintain our website"
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Improve, personalize, and expand our website"
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Understand and analyze how you use our website"
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Develop new products, services, features, and functionality"
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes"
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Send you emails"
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Find and prevent fraud"
+            }
+          ]
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h2",
+          "property": { "style": { "class": "sub_title" } },
+          "children": "Log Files"
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "Try Web Soft follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h2",
+          "property": { "style": { "class": "sub_title" } },
+          "children": "Google DoubleClick DART Cookie"
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": [
+            {
+              "type": "span",
+              "property": null,
+              "children": "Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL - "
+            },
+            {
+              "type": "a",
+              "property": {
+                "href": "https://policies.google.com/technologies/ads",
+                "target": "_blank"
+              },
+              "children": "https://policies.google.com/technologies/ads"
+            }
+          ]
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h2",
+          "property": { "style": { "class": "sub_title" } },
+          "children": "Our Advertising Partners"
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below."
+        },
+        {
+          "type": "ul",
+          "property": null,
+          "children": [
+            {
+              "type": "li",
+              "property": null,
+              "children": [
+                {
+                  "type": "span",
+                  "property": null,
+                  "children": "Google"
+                },
+                {
+                  "type": "br",
+                  "property": null,
+                  "children": null
+                },
+                {
+                  "type": "a",
+                  "property": {
+                    "href": "https://policies.google.com/technologies/ads",
+                    "target": "_blank"
+                  },
+                  "children": "https://policies.google.com/technologies/ads"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h2",
+          "property": { "style": { "class": "sub_title" } },
+          "children": "Advertising Partners Privacy Policies"
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "You may consult this list to find the Privacy Policy for each of the advertising partners of Try Web Soft."
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Try Web Soft, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit."
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "Note that Try Web Soft has no access to or control over these cookies that are used by third-party advertisers."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h2",
+          "property": { "style": { "class": "sub_title" } },
+          "children": "Third Party Privacy Policies"
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "Try Web Soft's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options."
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites."
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h2",
+          "property": { "style": { "class": "sub_title" } },
+          "children": "CCPA Privacy Rights (Do Not Sell My Personal Information)"
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "Under the CCPA, among other rights, California consumers have the right to:"
+        },
+        {
+          "type": "ul",
+          "property": null,
+          "children": [
+            {
+              "type": "li",
+              "property": null,
+              "children": "Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Request that a business delete any personal data about the consumer that a business has collected."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "Request that a business that sells a consumer's personal data, not sell the consumer's personal data."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us."
+            }
+          ]
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h2",
+          "property": { "style": { "class": "sub_title" } },
+          "children": "GDPR Data Protection Rights"
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:"
+        },
+        {
+          "type": "ul",
+          "property": null,
+          "children": [
+            {
+              "type": "li",
+              "property": null,
+              "children": "The right to access - You have the right to request copies of your personal data. We may charge you a small fee for this service."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "The right to rectification - You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "The right to erasure - You have the right to request that we erase your personal data, under certain conditions."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "The right to restrict processing - You have the right to request that we restrict the processing of your personal data, under certain conditions."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "The right to object to processing - You have the right to object to our processing of your personal data, under certain conditions."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "The right to data portability - You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions."
+            },
+            {
+              "type": "li",
+              "property": null,
+              "children": "If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us."
+            }
+          ]
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h2",
+          "property": { "style": { "class": "sub_title" } },
+          "children": "Children's Information"
+        },
+        {
+          "type": "hr",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity."
+        },
+        {
+          "type": "p",
+          "property": null,
+          "children": "Try Web Soft does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records."
+        }
+      ]
+    },
+    {
       "id": "compress-image-to-30kb",
       "size": "30",
       "title": "Compress Image (JPG,JPEG,PNG) to 30KB for free",

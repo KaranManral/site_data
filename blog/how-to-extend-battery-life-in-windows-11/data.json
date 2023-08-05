@@ -80,7 +80,8 @@
         "className": "blogImg",
         "loading": "lazy",
         "alt": "Task Manager",
-        "title": "Task Manager"
+        "title": "Task Manager",
+        "style": { "width": "90%" }
       },
       "children": null
     },
@@ -144,7 +145,8 @@
         "className": "blogImg",
         "loading": "lazy",
         "alt": "Battery Usage By Apps",
-        "title": "Battery Usage By Apps"
+        "title": "Battery Usage By Apps",
+        "style": { "width": "280px" }
       },
       "children": null
     },
@@ -208,7 +210,8 @@
         "className": "blogImg",
         "loading": "lazy",
         "alt": "Performance Options",
-        "title": "Performance Options"
+        "title": "Performance Options",
+        "style": { "width": "280px" }
       },
       "children": null
     },
@@ -240,7 +243,8 @@
         "className": "blogImg",
         "loading": "lazy",
         "alt": "Disable Unnecessary Connectivity Options",
-        "title": "Disable Unnecessary Connectivity Options"
+        "title": "Disable Unnecessary Connectivity Options",
+        "style": { "width": "280px" }
       },
       "children": null
     },
