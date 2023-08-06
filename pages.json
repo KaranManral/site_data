@@ -1,0 +1,132 @@
+{
+  "pages": [
+    {
+      "url": "about",
+      "modified": "2023-08-05"
+    },
+    {
+      "url": "help",
+      "modified": "2023-08-05"
+    },
+    {
+      "url": "privacy-policy",
+      "modified": "2023-08-05"
+    },
+    {
+      "url": "generate-subtitle",
+      "modified": "2023-07-25"
+    },
+    {
+      "url": "compress-video",
+      "modified": "2023-07-25"
+    },
+    {
+      "url": "extract-archive",
+      "modified": "2023-07-26"
+    },
+    {
+      "url": "extract-rar",
+      "modified": "2023-07-26"
+    },
+    {
+      "url": "extract-zip",
+      "modified": "2023-07-26"
+    },
+    {
+      "url": "extract-7z",
+      "modified": "2023-07-26"
+    },
+    {
+      "url": "extract-tar",
+      "modified": "2023-07-26"
+    },
+    {
+      "url": "compress-image",
+      "modified": "2023-07-27"
+    },
+    {
+      "url": "compress-image-to-30kb",
+      "modified": "2023-07-27"
+    },
+    {
+      "url": "compress-image-to-50kb",
+      "modified": "2023-07-27"
+    },
+    {
+      "url": "compress-image-to-100kb",
+      "modified": "2023-07-27"
+    },
+    {
+      "url": "compress-image-to-150kb",
+      "modified": "2023-07-27"
+    },
+    {
+      "url": "compress-image-to-200kb",
+      "modified": "2023-07-27"
+    },
+    {
+      "url": "compress-image-to-250kb",
+      "modified": "2023-07-27"
+    },
+    {
+      "url": "compress-image-to-300kb",
+      "modified": "2023-07-27"
+    },
+    {
+      "url": "compress-image-to-350kb",
+      "modified": "2023-07-27"
+    },
+    {
+      "url": "compress-jpg",
+      "modified": "2023-07-29"
+    },
+    {
+      "url": "compress-png",
+      "modified": "2023-07-29"
+    },
+    {
+      "url": "blog/how-to-save-pictures-from-pinterest",
+      "modified": "2023-07-28"
+    },
+    {
+      "url": "blog/how-to-open-rar-files",
+      "modified": "2023-07-28"
+    },
+    {
+      "url": "blog/compress-image-online-for-free",
+      "modified": "2023-07-28"
+    },
+    {
+      "url": "blog/chatgpt-4-everything-we-know",
+      "modified": "2023-07-28"
+    },
+    {
+      "url": "blog/how-to-use-chatgpt-on-whatsapp",
+      "modified": "2023-07-28"
+    },
+    {
+      "url": "blog/google-bard-everything-we-know-about-google-ai",
+      "modified": "2023-07-28"
+    },
+    {
+      "url": "blog/pentest-gpt",
+      "modified": "2023-07-28"
+    },
+    {
+      "url": "blog/what-is-truth-gpt",
+      "modified": "2023-07-28"
+    },
+    {
+      "url": "blog/how-to-take-screenshot-on-windows",
+      "modified": "2023-07-28"
+    },
+    {
+      "url": "blog/the-impact-of-ai",
+      "modified": "2023-07-28"
+    },
+    {
+      "url": "blog/how-to-extend-battery-life-in-windows-11",
+      "modified": "2023-07-28"
+    }
+  ]
+}
