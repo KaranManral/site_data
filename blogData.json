@@ -149,8 +149,30 @@
       "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
       "date": "August 27, 2023",
       "keywords": "AI conversation, ChatGPT alternatives, natural language processing, AI chatbots, AI assistants, AI platforms, conversational AI, machine learning, virtual assistants, conversational models, AI revolution"
+    },
+    {
+      "id": "chain-gpt-blockchain-crypto-nfts",
+      "title": "ChainGPT in Blockchain, Crypto, and NFTs | The AI Revolution",
+      "og_title": "ChainGPT in Blockchain, Crypto, and NFTs | The AI Revolution",
+      "description": "Explore how ChainGPT is reshaping the world of blockchain, cryptocurrencies, and NFTs. Discover its applications, benefits, and the future of AI in these decentralized realms.",
+      "url": "https://trywebsoft.com/blog/chain-gpt-blockchain-crypto-nfts",
+      "author": "Karan Singh Manral",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "date": "August 28, 2023",
+      "keywords": "Chained GPT, ChainGPT, blockchain, crypto, NFTs, AI integration, decentralized technology, cryptocurrency market analysis, blockchain education, crypto news summaries, NFT descriptions, blockchain research, AI benefits, ethical AI, responsible AI use, future of AI in blockchain, AI-driven content generation"
+    },
+    {
+      "id": "navigating-kubernetes-comprehensive-guide",
+      "title": "Navigating Kubernetes: A Comprehensive Guide to Mastering Container Orchestration",
+      "og_title": "Navigating Kubernetes: A Comprehensive Guide to Mastering Container Orchestration",
+      "description": "Unlock the full potential of Kubernetes with our comprehensive guide. Dive into container orchestration, deployment strategies, best practices, and the future of cloud-native technologies.",
+      "url": "https://trywebsoft.com/blog/navigating-kubernetes-comprehensive-guide",
+      "author": "Karan Singh Manral",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "date": "August 29, 2023",
+      "keywords": "Kubernetes, container orchestration, cloud-native technologies, Kubernetes deployment, Kubernetes best practices, Kubernetes guide, cloud-native computing, Kubernetes future, Kubernetes strategies, container management"
     }
   ],
   "page_count": 2,
-  "blog_count": 13
+  "blog_count": 15
 }
