@@ -37,7 +37,8 @@
         "data-bs-ride": "carousel",
         "style": {
           "marginTop": "2rem",
-          "marginBottom": "2rem"
+          "marginBottom": "2rem",
+          "height": "480px"
         }
       },
       "children": [
@@ -136,10 +137,7 @@
             {
               "type": "div",
               "property": {
-                "className": "carousel-item active",
-                "style": {
-                  "display": "grid"
-                }
+                "className": "carousel-item active"
               },
               "children": [
                 {
@@ -149,11 +147,7 @@
                     "className": "d-block w-100",
                     "loading": "lazy",
                     "alt": "Tic Tac Toe",
-                    "title": "Tic Tac Toe",
-                    "style": {
-                      "justify-self": "center",
-                      "width": "320px"
-                    }
+                    "title": "Tic Tac Toe"
                   },
                   "children": null
                 }
@@ -162,10 +156,7 @@
             {
               "type": "div",
               "property": {
-                "className": "carousel-item",
-                "style": {
-                  "display": "grid"
-                }
+                "className": "carousel-item"
               },
               "children": [
                 {
@@ -175,11 +166,7 @@
                     "className": "d-block w-100",
                     "loading": "lazy",
                     "alt": "Tic Tac Toe",
-                    "title": "Tic Tac Toe",
-                    "style": {
-                      "justify-self": "center",
-                      "width": "320px"
-                    }
+                    "title": "Tic Tac Toe"
                   },
                   "children": null
                 }
@@ -188,10 +175,7 @@
             {
               "type": "div",
               "property": {
-                "className": "carousel-item",
-                "style": {
-                  "display": "grid"
-                }
+                "className": "carousel-item"
               },
               "children": [
                 {
@@ -201,11 +185,7 @@
                     "className": "d-block w-100",
                     "loading": "lazy",
                     "alt": "Tic Tac Toe",
-                    "title": "Tic Tac Toe",
-                    "style": {
-                      "justify-self": "center",
-                      "width": "320px"
-                    }
+                    "title": "Tic Tac Toe"
                   },
                   "children": null
                 }
@@ -214,10 +194,7 @@
             {
               "type": "div",
               "property": {
-                "className": "carousel-item",
-                "style": {
-                  "display": "grid"
-                }
+                "className": "carousel-item"
               },
               "children": [
                 {
@@ -227,11 +204,7 @@
                     "className": "d-block w-100",
                     "loading": "lazy",
                     "alt": "Tic Tac Toe",
-                    "title": "Tic Tac Toe",
-                    "style": {
-                      "justify-self": "center",
-                      "width": "320px"
-                    }
+                    "title": "Tic Tac Toe"
                   },
                   "children": null
                 }
@@ -240,10 +213,7 @@
             {
               "type": "div",
               "property": {
-                "className": "carousel-item",
-                "style": {
-                  "display": "grid"
-                }
+                "className": "carousel-item"
               },
               "children": [
                 {
@@ -253,11 +223,7 @@
                     "className": "d-block w-100",
                     "loading": "lazy",
                     "alt": "Tic Tac Toe",
-                    "title": "Tic Tac Toe",
-                    "style": {
-                      "justify-self": "center",
-                      "width": "320px"
-                    }
+                    "title": "Tic Tac Toe"
                   },
                   "children": null
                 }
@@ -266,10 +232,7 @@
             {
               "type": "div",
               "property": {
-                "className": "carousel-item",
-                "style": {
-                  "display": "grid"
-                }
+                "className": "carousel-item"
               },
               "children": [
                 {
@@ -279,11 +242,7 @@
                     "className": "d-block w-100",
                     "loading": "lazy",
                     "alt": "Tic Tac Toe",
-                    "title": "Tic Tac Toe",
-                    "style": {
-                      "justify-self": "center",
-                      "width": "320px"
-                    }
+                    "title": "Tic Tac Toe"
                   },
                   "children": null
                 }
@@ -292,10 +251,7 @@
             {
               "type": "div",
               "property": {
-                "className": "carousel-item",
-                "style": {
-                  "display": "grid"
-                }
+                "className": "carousel-item"
               },
               "children": [
                 {
@@ -305,11 +261,7 @@
                     "className": "d-block w-100",
                     "loading": "lazy",
                     "alt": "Tic Tac Toe",
-                    "title": "Tic Tac Toe",
-                    "style": {
-                      "justify-self": "center",
-                      "width": "320px"
-                    }
+                    "title": "Tic Tac Toe"
                   },
                   "children": null
                 }
@@ -648,11 +600,6 @@
       "children": "Our app is now available on Google Play."
     },
     {
-      "type": "br",
-      "property": null,
-      "children": null
-    },
-    {
       "type": "a",
       "property": {
         "href": "https://play.google.com/store/apps/details?id=com.trywebsoft.tictactoe&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
@@ -666,16 +613,19 @@
             "src": "https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png",
             "loading": "lazy",
             "alt": "Get it on Google Play",
-            "title": "Get it on Google Play"
+            "title": "Get it on Google Play",
+            "style": {
+              "width": "320px"
+            }
           },
           "children": null
-        },
-        {
-          "type": "span",
-          "property": null,
-          "children": "Google Play and the Google Play logo are trademarks of Google LLC."
         }
       ]
+    },
+    {
+      "type": "small",
+      "property": null,
+      "children": "Google Play and the Google Play logo are trademarks of Google LLC."
     },
     {
       "type": "br",
@@ -686,11 +636,6 @@
       "type": "p",
       "property": null,
       "children": "Or Get it on Galaxy Store"
-    },
-    {
-      "type": "br",
-      "property": null,
-      "children": null
     },
     {
       "type": "a",
@@ -706,7 +651,11 @@
             "src": "https://img.samsungapps.com/seller/images/badges/galaxyStore/png_big/GalaxyStore_English.png?ver=1628533390000",
             "loading": "lazy",
             "alt": "Available on Samsung Galaxy Store",
-            "title": "Available on Samsung Galaxy Store"
+            "title": "Available on Samsung Galaxy Store",
+            "style": {
+              "width": "320px",
+              "padding": "16px"
+            }
           },
           "children": null
         }
