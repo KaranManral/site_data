@@ -36,9 +36,8 @@
         "id": "carouselExampleIndicators",
         "data-bs-ride": "carousel",
         "style": {
-          "marginTop": "2rem",
-          "marginBottom": "2rem",
-          "height": "480px"
+          "margin": "2rem auto",
+          "width": "320px"
         }
       },
       "children": [
@@ -623,9 +622,15 @@
       ]
     },
     {
-      "type": "small",
+      "type": "p",
       "property": null,
-      "children": "Google Play and the Google Play logo are trademarks of Google LLC."
+      "children": [
+        {
+          "type": "small",
+          "property": { "className": "text-muted" },
+          "children": "Google Play and the Google Play logo are trademarks of Google LLC."
+        }
+      ]
     },
     {
       "type": "br",
