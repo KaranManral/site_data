@@ -37,6 +37,7 @@
         "data-bs-ride": "carousel",
         "style": {
           "margin": "2rem auto",
+          "maxWidth": "100%",
           "width": "320px"
         }
       },
@@ -460,6 +461,7 @@
             "title": "Download Tic Tac Toe",
             "style": {
               "justifySelf": "center",
+              "maxWidth": "100%",
               "width": "320px",
               "height": "320px"
             }
@@ -614,6 +616,7 @@
             "alt": "Get it on Google Play",
             "title": "Get it on Google Play",
             "style": {
+              "maxWidth": "100%",
               "width": "320px"
             }
           },
@@ -659,6 +662,7 @@
             "title": "Available on Samsung Galaxy Store",
             "style": {
               "width": "320px",
+              "maxWidth": "100%",
               "padding": "16px"
             }
           },
