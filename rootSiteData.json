@@ -87,6 +87,26 @@
               "children": "You can send your feedbacks on email provided below in the contact section."
             }
           ]
+        },
+        {
+          "type": "br",
+          "property": null,
+          "children": null
+        },
+        {
+          "type": "h5",
+          "property": null,
+          "children": [
+            {
+              "type": "a",
+              "property": {
+                "href": "https://karanmanral.github.io/portfolio",
+                "target": "_blank",
+                "rel": "noreferrer"
+              },
+              "children": "Know the developer"
+            }
+          ]
         }
       ]
     },
