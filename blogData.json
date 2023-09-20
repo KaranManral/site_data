@@ -5,7 +5,14 @@
       "title": "Blog - Try Web Soft",
       "og_title": "Blog - Try Web Soft",
       "description": "Read Super Exciting Technical Blogs at Try Web Soft and improve your knowledge about latest technologies.",
-      "url": "https://trywebsoft.com/blog"
+      "url": "https://trywebsoft.com/blog/page-2"
+    },
+    {
+      "id": "page-3",
+      "title": "Blog - Try Web Soft",
+      "og_title": "Blog - Try Web Soft",
+      "description": "Read Super Exciting Technical Blogs at Try Web Soft and improve your knowledge about latest technologies.",
+      "url": "https://trywebsoft.com/blog/page-3"
     },
     {
       "id": "how-to-save-pictures-from-pinterest",
@@ -449,8 +456,100 @@
         "Fun Android game",
         "Nostalgic gaming"
       ]
+    },
+    {
+      "id": "meet-next-gpt-your-gateway-to-end-to-end-multimodal-ai",
+      "title": "Meet NexT-GPT: Your Gateway to End-to-End Multimodal AI",
+      "og_title": "Meet NexT-GPT: Your Gateway to End-to-End Multimodal AI",
+      "description": "Enhance human-computer interaction with multimodal LLMs. Enable natural communication through voice, text, and visuals. Improve chatbots, virtual assistants, and recommendations. These models build on GPT-3 but require more data and face training challenges.",
+      "url": "https://trywebsoft.com/blog/meet-next-gpt-your-gateway-to-end-to-end-multimodal-ai",
+      "blogImg": "https://karanmanral.github.io/site_data/images/blog/blog17.webp",
+      "author": "Karan Singh Manral",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "date": "September 18, 2023",
+      "keywords": [
+        "Multimodal AI",
+        "NexT-GPT",
+        "Large Language Models",
+        "Natural Language Processing",
+        "Human-Computer Interaction",
+        "AI Communication",
+        "Chatbots",
+        "Virtual Assistants",
+        "Content Recommendation Systems",
+        "Any-to-Any Modality",
+        "Text",
+        "Image",
+        "Video",
+        "Audio",
+        "Alignment Learning",
+        "Semantic Understanding",
+        "AI Development",
+        "NeXT++ Research",
+        "School of Computing (NUS)",
+        "AI Innovation",
+        "Multimodal Communication",
+        "Technology Advancements",
+        "Human-Like AI Interaction"
+      ]
+    },
+    {
+      "id": "google-gemini-ai-a-formidable-challenger-to-chatgpt-dominance",
+      "title": "Google's Gemini AI: A Formidable Challenger to ChatGPT's Dominance",
+      "og_title": "Google's Gemini AI: A Formidable Challenger to ChatGPT's Dominance",
+      "description": "Google's new Gemini LLM has the potential to unseat ChatGPT due to its vast array of proprietary training data. Learn more about it here.",
+      "url": "https://trywebsoft.com/blog/google-gemini-ai-a-formidable-challenger-to-chatgpt-dominance",
+      "blogImg": "https://karanmanral.github.io/site_data/images/blog/blog18.webp",
+      "author": "Karan Singh Manral",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "date": "September 20, 2023",
+      "keywords": [
+        "Google Gemini AI",
+        "ChatGPT",
+        "Generative AI",
+        "Large Language Models",
+        "AI Research",
+        "Google DeepMind",
+        "Multimodal AI",
+        "Reinforcement Learning",
+        "AlphaGo Techniques",
+        "Google Bard",
+        "PaLM 2 LLM",
+        "AI Competition",
+        "AI Arms Race",
+        "AI Innovation",
+        "Proprietary Training Data",
+        "Content Generation",
+        "Machine Learning",
+        "AI Applications",
+        "Google's AI Strategy",
+        "Future of AI"
+      ]
+    },
+    {
+      "id": "pink-whatsapp-alert-protect-your-privacy-and-devices-now",
+      "title": "Pink WhatsApp Alert: Protect Your Privacy and Devices Now!",
+      "og_title": "Pink WhatsApp Alert: Protect Your Privacy and Devices Now!",
+      "description": "Discover the hidden dangers of Pink WhatsApp! Learn how to safeguard your privacy, prevent device compromise, and spread the word to protect your loved ones. Stay secure and informed!",
+      "url": "https://trywebsoft.com/blog/pink-whatsapp-alert-protect-your-privacy-and-devices-now",
+      "blogImg": "https://karanmanral.github.io/site_data/images/blog/blog19.webp",
+      "author": "Karan Singh Manral",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "date": "September 20, 2023",
+      "keywords": [
+        "Pink WhatsApp",
+        "WhatsApp mods",
+        "Privacy risks",
+        "Device security",
+        "Malicious apps",
+        "Unofficial apps",
+        "Data protection",
+        "Factory reset",
+        "Security vulnerabilities",
+        "Smartphone safety"
+      ]
     }
   ],
-  "page_count": 2,
-  "blog_count": 16
+  "page_count": 3,
+  "blog_count": 19
 }
