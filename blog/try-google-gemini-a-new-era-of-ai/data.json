@@ -1,0 +1,478 @@
+{
+    "id": "try-google-gemini-a-new-era-of-ai",
+    "title": "Try Google Gemini: A New Era of AI",
+    "author": "Karan Singh Manral",
+    "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+    "data": [
+      {
+        "type": "p",
+        "property": null,
+        "children": "Google has recently unveiled its most powerful AI model yet, Gemini. This model is the result of large-scale collaborative efforts by teams across Google, including Google Research and Google DeepMind. Gemini is built from the ground up to be multimodal, which means it can seamlessly understand, operate across, and combine different types of information including text, code, audio, image, and video."
+      },
+      {
+        "type": "img",
+        "property": {
+          "src": "https://karanmanral.github.io/site_data/blog/try-google-gemini-a-new-era-of-ai/images/gemini.webp",
+          "className": "blogImg",
+          "loading": "lazy",
+          "alt": "Google Gemini",
+          "title": "Google Gemini"
+        },
+        "children": null
+      },
+      {
+        "type": "h2",
+        "property": null,
+        "children": "Introduction to Google Gemini"
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "p",
+        "property": null,
+        "children": "Gemini is Google’s response to the transition we are seeing right now with AI, which is believed to be the most profound in our lifetimes, far bigger than the shift to mobile or the web before it. AI has the potential to create opportunities for people everywhere, bringing new waves of innovation and economic progress, and driving knowledge, learning, creativity, and productivity on a scale we haven’t seen before. The first version of Gemini, Gemini 1.0, is optimized for different sizes: Ultra, Pro, and Nano. These are the first models of the Gemini era and the first realization of the vision Google had when it formed Google DeepMind. This new era of models represents one of the biggest science and engineering efforts Google has undertaken as a company."
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "h2",
+        "property": null,
+        "children": "Gemini: Google’s AI Revolution"
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "p",
+        "property": null,
+        "children": "Google’s Gemini AI is a marvel of modern technology, a testament to the advancements in the field of artificial intelligence. It’s not just a single entity, but a comprehensive system designed to cater to a wide array of tasks."
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "p",
+        "property": null,
+        "children": "The core strength of Gemini lies in its multimodal capabilities. Unlike traditional AI models that are limited to a single mode of operation, Gemini is designed to seamlessly operate across and combine different types of information. This includes text, code, audio, image, and video."
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "p",
+        "property": null,
+        "children": "This multimodal operation allows Gemini to understand and interpret a wide range of data, making it incredibly versatile. Whether it’s interpreting text, analyzing an image, or understanding a piece of code, Gemini can do it all."
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "p",
+        "property": null,
+        "children": "Moreover, Gemini is designed to be scalable. This means it can handle tasks of varying complexity, from simple queries to complex problem-solving. This scalability makes Gemini a powerful tool for a wide range of applications."
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "p",
+        "property": null,
+        "children": "Also, Gemini surpasses the state-of-the-art (SOTA) performance on all multimodal tasks. It outperforms human experts on Massive Multitask Language Understanding (MMLU), one of the most popular methods to test the knowledge and problem-solving abilities of AI models."
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "h2",
+        "property": null,
+        "children": "The Gemini Family"
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "p",
+        "property": null,
+        "children": "Gemini is a family of Multimodal LLM (large language models) which is developed by team called Google DeepMind. It comprises three distinct versions: Gemini Ultra, Gemini Pro, and Gemini Nano. Each version is tailored for specific needs."
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "ul",
+        "property": null,
+        "children": [
+          {
+            "type": "li",
+            "property": null,
+            "children": [
+              {
+                "type": "strong",
+                "property": null,
+                "children": "Gemini Ultra: "
+              },
+              {
+                "type": "span",
+                "property": null,
+                "children": "It is the largest and most powerful model, optimized for highly complex tasks. It outperforms human experts in Massive Multitask Language Understanding (MMLU)."
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "property": null,
+            "children": [
+              {
+                "type": "strong",
+                "property": null,
+                "children": "Gemini Pro: "
+              },
+              {
+                "type": "span",
+                "property": null,
+                "children": "It is the best model for scaling across a wide range of tasks. It’s currently being used in Bard, Google’s chatbot."
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "property": null,
+            "children": [
+              {
+                "type": "strong",
+                "property": null,
+                "children": "Gemini Nano: "
+              },
+              {
+                "type": "span",
+                "property": null,
+                "children": "It is the most efficient model for on-device tasks. Google plans to utilize Gemini Nano in the Pixel 8 and Pixel 8 Pro smartphones."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "h2",
+        "property": null,
+        "children": "Gemini’s Performance"
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "p",
+        "property": null,
+        "children": "Gemini surpasses the state-of-the-art (SOTA) performance on all multimodal tasks. It outperforms human experts on MMLU, one of the most popular methods to test the knowledge and problem-solving abilities of AI models. Gemini Ultra achieves a remarkable 90.0% in MMLU, showcasing its ability to comprehend 57 subjects, including STEM, humanities, and more."
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "p",
+        "property": null,
+        "children": "Let’s delve into the performance metrics of each model in the Gemini family:"
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "ul",
+        "property": null,
+        "children": [
+          {
+            "type": "li",
+            "property": null,
+            "children": [
+              {
+                "type": "strong",
+                "property": null,
+                "children": "Gemini Ultra: "
+              },
+              {
+                "type": "span",
+                "property": null,
+                "children": "This model is the largest and most capable, designed for highly complex tasks. It has achieved a state-of-the-art score of 90.0% on the Massive Multitask Language Understanding (MMLU) benchmark. This benchmark uses a combination of 57 subjects such as math, physics, history, law, medicine, and ethics for testing both world knowledge and problem-solving abilities. In comparison, GPT-4 scored 86.4%."
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "property": null,
+            "children": [
+              {
+                "type": "strong",
+                "property": null,
+                "children": "Gemini Pro: "
+              },
+              {
+                "type": "span",
+                "property": null,
+                "children": "This model is optimized for a wide range of tasks. It outperformed OpenAI’s GPT-3.5 in six out of eight benchmarks. This model is currently being used in Bard, Google’s chatbot, which testifies to its practical utility and robust performance."
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "property": null,
+            "children": [
+              {
+                "type": "strong",
+                "property": null,
+                "children": "Gemini Nano: "
+              },
+              {
+                "type": "span",
+                "property": null,
+                "children": "This is the most efficient model, designed for on-device tasks. It comes in two variants: Nano-1 and Nano-2. The former can handle 1.8 billion parameters, while the latter is capable of 3.25 billion. This model is optimized for Android app development and is planned to be used in the Pixel 8 Pro to generate summaries of voice memos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "h2",
+        "property": null,
+        "children": "Google Gemini vs OpenAI’s GPT-4"
+      },
+      {
+        "type": "img",
+        "property": {
+          "src": "https://karanmanral.github.io/site_data/blog/try-google-gemini-a-new-era-of-ai/images/geminivsgpt.webp",
+          "className": "blogImg",
+          "loading": "lazy",
+          "alt": "Google Gemini V/S GPT 4",
+          "title": "Google Gemini V/S GPT 4"
+        },
+        "children": null
+      },
+      {
+        "type": "p",
+        "property": null,
+        "children": "Gemini is seen as Google’s response to OpenAI’s GPT-4. While both models are examples of generative AI, which learn to find patterns of input training information to generate new data, GPT-4 is a large language model (LLM) which focuses on producing text."
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "p",
+        "property": null,
+        "children": "Gemini has proven to outperform GPT-4 in most benchmark tests. According to Google, Gemini represents a significant leap forward in how AI can help improve our daily lives. The new AI model also represents a significant leap in performance from previous models, as demonstrated by the benchmark results already released at launch."
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "h2",
+        "property": null,
+        "children": "Pros of Google Gemini AI"
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "ol",
+        "property": null,
+        "children": [
+          {
+            "type": "li",
+            "property": null,
+            "children": [
+              {
+                "type": "strong",
+                "property": null,
+                "children": "Multimodal Capabilities: "
+              },
+              {
+                "type": "span",
+                "property": null,
+                "children": "Gemini can handle various forms of input and output, including text, code, audio, images, and videos. This gives it a lot of flexibility to perform a wide range of tasks."
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "property": null,
+            "children": [
+              {
+                "type": "strong",
+                "property": null,
+                "children": "Superior Performance: "
+              },
+              {
+                "type": "span",
+                "property": null,
+                "children": "Gemini Ultra stands out for its superior performance and efficiency, surpassing its predecessors and competitors."
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "property": null,
+            "children": [
+              {
+                "type": "strong",
+                "property": null,
+                "children": "Cost-Effective: "
+              },
+              {
+                "type": "span",
+                "property": null,
+                "children": "Despite its immense capabilities, Gemini Ultra is cost-effective."
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "property": null,
+            "children": [
+              {
+                "type": "strong",
+                "property": null,
+                "children": "Creativity: "
+              },
+              {
+                "type": "span",
+                "property": null,
+                "children": "Gemini is creative. In the video, it turned balls of yarn into images of cute knitted fruit and animals."
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "property": null,
+            "children": [
+              {
+                "type": "strong",
+                "property": null,
+                "children": "Collaboration: "
+              },
+              {
+                "type": "span",
+                "property": null,
+                "children": "Gemini can be collaborative. When the researchers drew instruments, Gemini created music based on the sounds each instrument would make, both individually and collaboratively."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "h2",
+        "property": null,
+        "children": "Cons of Google Gemini AI"
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "ol",
+        "property": null,
+        "children": [
+          {
+            "type": "li",
+            "property": null,
+            "children": [
+              {
+                "type": "strong",
+                "property": null,
+                "children": "Exaggerated Demos: "
+              },
+              {
+                "type": "span",
+                "property": null,
+                "children": "The demos of Gemini’s capabilities were somewhat exaggerated, which might be misleading from a consumer perspective."
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "property": null,
+            "children": [
+              {
+                "type": "strong",
+                "property": null,
+                "children": "Potential Privacy Concerns: "
+              },
+              {
+                "type": "span",
+                "property": null,
+                "children": "Google is working on more advanced AI models, including programs that might be able to profile you more accurately than any previous algorithm."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "h2",
+        "property": null,
+        "children": "Conclusion"
+      },
+      {
+        "type": "br",
+        "property": null,
+        "children": null
+      },
+      {
+        "type": "p",
+        "property": null,
+        "children": "In conclusion, Google’s Gemini is a significant advancement in the field of AI. Its multimodal capabilities and its ability to outperform human experts on certain tasks make it a promising tool for a wide range of applications. However, the AI landscape is rapidly evolving, and it will be interesting to see how Gemini fares against future models like OpenAI’s GPT-5."
+      }
+    ]
+  }
+  
