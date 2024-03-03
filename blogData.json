@@ -707,8 +707,102 @@
         "Stay ahead of the curve",
         "2024"
       ]
+    },
+    {
+      "id": "cyber-attack-survival-guide",
+      "title": "Cyber Attack Survival Guide: 10 Mistakes to Steer Clear of When Restoring Your Website's Security",
+      "og_title": "Cyber Attack Survival Guide: 10 Mistakes to Steer Clear of When Restoring Your Website's Security",
+      "description": "Protect your website from cyber attacks! Avoid common mistakes and ensure a secure restoration process with our survival guide.",
+      "url": "https://trywebsoft.com/blog/cyber-attack-survival-guide",
+      "blogImg": "https://karanmanral.github.io/site_data/images/blog/blog26.webp",
+      "author": "Karan Singh Manral",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "date": "March 02, 2024",
+      "keywords": [
+        "Cyber attack",
+        "Website security",
+        "Survival guide",
+        "Security restoration",
+        "Cybersecurity mistakes",
+        "Website protection",
+        "Data breach prevention",
+        "Cyber threats",
+        "Website recovery",
+        "Security best practices"
+    ]    
+    },
+    {
+      "id": "empower-your-content-marketing-strategy",
+      "title": "Empower Your Content Marketing Strategy: Unveiling the Best 5 Free Online Tools for Creating Stunning Infographics",
+      "og_title": "Empower Your Content Marketing Strategy: Unveiling the Best 5 Free Online Tools for Creating Stunning Infographics",
+      "description": "Elevate your content marketing game! Discover the top 5 free online tools for crafting captivating infographics and boost your strategy.",
+      "url": "https://trywebsoft.com/blog/empower-your-content-marketing-strategy",
+      "blogImg": "https://karanmanral.github.io/site_data/images/blog/blog27.webp",
+      "author": "Karan Singh Manral",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "date": "March 02, 2024",
+      "keywords": [
+        "Content marketing",
+        "Infographic creation",
+        "Free online tools",
+        "Visual content",
+        "Marketing strategy",
+        "Graphic design",
+        "Data visualization",
+        "Content creation",
+        "Digital marketing",
+        "Visual storytelling"
+    ]    
+    },
+    {
+      "id": "exploring-the-metaverse",
+      "title": "Exploring the Metaverse: How Virtual Reality is Shaping the Future of the Internet",
+      "og_title": "Exploring the Metaverse: How Virtual Reality is Shaping the Future of the Internet",
+      "description": "Dive into the Metaverse! Explore how virtual reality is reshaping the internet landscape and shaping the future of online experiences.",
+      "url": "https://trywebsoft.com/blog/exploring-the-metaverse",
+      "blogImg": "https://karanmanral.github.io/site_data/images/blog/blog28.webp",
+      "author": "Karan Singh Manral",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "date": "March 02, 2024",
+      "keywords": [
+        "Metaverse",
+        "Virtual reality",
+        "Internet future",
+        "Online experiences",
+        "VR technology",
+        "Digital landscape",
+        "Immersive experiences",
+        "Internet evolution",
+        "Virtual worlds",
+        "Augmented reality"
+    ]    
+    },
+    {
+      "id": "unleash-the-power-of-raspberry-pi",
+      "title": "Unleash the Power of Raspberry Pi: 12 Incredible Ways to Upgrade Your Computing Setup",
+      "og_title": "Unleash the Power of Raspberry Pi: 12 Incredible Ways to Upgrade Your Computing Setup",
+      "description": "Maximize your computing potential with Raspberry Pi! Discover 12 incredible ways to upgrade your setup and unleash its full power.",
+      "url": "https://trywebsoft.com/blog/unleash-the-power-of-raspberry-pi",
+      "blogImg": "https://karanmanral.github.io/site_data/images/blog/blog29.webp",
+      "author": "Karan Singh Manral",
+      "authorImg": "https://karanmanral.github.io/site_data/images/author/ksm29.webp",
+      "date": "March 02, 2024",
+      "keywords": [
+        "Raspberry Pi",
+        "Computing setup",
+        "Tech upgrades",
+        "DIY projects",
+        "Single-board computers",
+        "Innovation",
+        "Technology hacks",
+        "Computing solutions",
+        "Hardware enhancement",
+        "Maker community",
+        "DIY enthusiasts",
+        "Tech innovation"
+    ]        
     }
   ],
-  "page_count": 3,
-  "blog_count": 25
+  "page_count": 4,
+  "blog_count": 29
 }
