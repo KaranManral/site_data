@@ -159,11 +159,6 @@
                 "children": "Isolate and Quarantine: "
               },
               {
-                "type": "br",
-                "property": null,
-                "children": null
-              },
-              {
                 "type": "span",
                 "property": null,
                 "children": "As soon as you become aware of a cyber attack, isolate the affected systems to prevent further spread of malware or unauthorized access. This may involve disconnecting from the network or shutting down compromised servers temporarily. Quarantine any infected files or systems to prevent them from causing further damage."
@@ -178,11 +173,6 @@
                 "type": "strong",
                 "property": null,
                 "children": "Document the Attack: "
-              },
-              {
-                "type": "br",
-                "property": null,
-                "children": null
               },
               {
                 "type": "span",
@@ -201,11 +191,6 @@
                 "children": "Engage IT and Security Professionals: "
               },
               {
-                "type": "br",
-                "property": null,
-                "children": null
-              },
-              {
                 "type": "span",
                 "property": null,
                 "children": "Bring in IT and cybersecurity professionals to conduct a thorough investigation of the attack. They can help determine the cause of the breach, identify vulnerabilities, and guide you in the restoration process."
@@ -220,11 +205,6 @@
                 "type": "strong",
                 "property": null,
                 "children": "Change Passwords and Access Credentials: "
-              },
-              {
-                "type": "br",
-                "property": null,
-                "children": null
               },
               {
                 "type": "span",
@@ -243,11 +223,6 @@
                 "children": "Scan and Clean Infected Systems: "
               },
               {
-                "type": "br",
-                "property": null,
-                "children": null
-              },
-              {
                 "type": "span",
                 "property": null,
                 "children": "Perform a comprehensive malware scan on all systems and files to detect and remove any traces of malware or malicious code. Ensure that all software and plugins are up to date and free from vulnerabilities."
@@ -264,11 +239,6 @@
                 "children": "Restore from a Secure Backup: "
               },
               {
-                "type": "br",
-                "property": null,
-                "children": null
-              },
-              {
                 "type": "span",
                 "property": null,
                 "children": "If you have a secure backup of your website, restore it to a clean and secure environment. Ensure that the backup is free from malware or vulnerabilities. If you don't have a backup, consider this as a lesson learned and implement regular backup procedures going forward."
@@ -283,11 +253,6 @@
                 "type": "strong",
                 "property": null,
                 "children": "Implement Additional Security Measures: "
-              },
-              {
-                "type": "br",
-                "property": null,
-                "children": null
               },
               {
                 "type": "span",
