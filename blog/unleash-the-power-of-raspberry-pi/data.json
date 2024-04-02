@@ -100,32 +100,6 @@
     {
       "type": "h3",
       "property": null,
-      "children": "Cutting the cord with Kodi: A Raspberry Pi media center"
-    },
-    {
-        "type": "img",
-        "property": {
-          "src": "https://karanmanral.github.io/site_data/blog/unleash-the-power-of-raspberry-pi/images/kodi.webp",
-          "className": "blogImg",
-          "loading": "lazy",
-          "alt": "Kodi with Raspberry Pi",
-          "title": "Kodi with Raspberry Pi"
-        },
-        "children": null
-      },
-    {
-      "type": "p",
-      "property": null,
-      "children": "Streaming media has become the norm in today's entertainment landscape. If you're tired of paying hefty cable bills, Raspberry Pi can help you cut the cord. By setting up a media center using Kodi and Raspberry Pi, you can stream your favorite movies, TV shows, and music directly to your TV. With the Raspberry Pi as the brain behind your media center, you have access to an extensive range of content, all at your fingertips."
-    },
-    {
-      "type": "br",
-      "property": null,
-      "children": null
-    },
-    {
-      "type": "h3",
-      "property": null,
       "children": "Building a Raspberry Pi retro game machine"
     },
     {
