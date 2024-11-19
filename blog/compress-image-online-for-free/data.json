@@ -536,6 +536,46 @@
     {
       "type": "h2",
       "property": null,
+      "children": "6. Website Planet"
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": "Website Planet is also a similar tool, which supports JPEG and PNG formats. It provides a good quality/size ratio as it combines great optimization and lossy compression algorithms to attain the minimum possible size whilst maintaining the quality level. The best part is that it allows extreme compression to fixed size like 50KB."
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "p",
+      "property": null,
+      "children": [
+        {
+          "type": "span",
+          "property": null,
+          "children": "Visit "
+        },
+        {
+          "type": "a",
+          "property": {
+            "href": "https://www.websiteplanet.com/webtools/imagecompressor/",
+            "target": "_blank",
+            "rel": "noreferrer"
+          },
+          "children": "Website Planet"
+        }
+      ]
+    },
+    {
+      "type": "br",
+      "property": null,
+      "children": null
+    },
+    {
+      "type": "h2",
+      "property": null,
       "children": "Conclusion"
     },
     {
